@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "05f70ab919b5ddc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d555b7c6ee9d4ffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2acfa647a9eb9d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROFESSORES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROFESSORES"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd83f2d699b0efd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e938983209fb0ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04d40ac9f9ec042b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "acf0d6730d07e9e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "d5321ee96bfc7749",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d114f872a51fa7f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f33e27497cc264ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dc6d115cacc4407",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AULAS/TEORIA DO DIREITO/Aula 1 - Teoria do direito - 0308.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "387d241ace69d5eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AULAS/TEORIA DO DIREITO/Aula 1 - Teoria do direito - 0308.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "df08ba3622e1a73d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d787512905389ce6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "2ca697b9da34a6d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AULAS/TEORIA DO DIREITO/Aula 1 - Teoria do direito - 0308.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "0dbd75f5bc25a67b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2acfa647a9eb9d41",
+  "lastOpenFiles": [
+    "AULAS/TEORIA DO DIREITO/Aula 1 0308 - Resumo.md",
+    "Arquivos de IMG/ChatGPT Image 3 de ago. de 2026, 22_05_46.png",
+    "PROFESSORES.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "LIVROS/Introdução ao Estudo do Direito -- NADER, Paulo --.pdf",
+    "NOTAS SEM OCONTEXTO.md",
+    "PALAVRAS/PALAVRAS & GLOSSARIO DE AULA.md",
+    "Arquivos de IMG",
+    "AULAS/TEORIA DO DIREITO/Rascunhos/A1 0308.md",
+    "AULAS/DIREITO CIVIL - Pessoas e Bens/Rascunhos",
+    "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/Rascunhos",
+    "AULAS/DIREITO PENAL - Teoria do crime/Rascunhos",
+    "AULAS/LINGUAGEM JURÍDICA/Rascunhos",
+    "AULAS/TEORIA DO DIREITO/Rascunhos",
+    "Introdução ao Estudo do Direito -- NADER, Paulo --.pdf",
+    "LIVROS",
+    "Sem título.md",
+    "2026_2_EDITAL_N_010_FUNDACAO_2026_Homologa_e_Divulga_Resultado_Preliminar_Inscricoes_Universidade_Gratuita_2026_2_08f7bbca56.pdf",
+    "TESTES.md",
+    "QUE É PASSADO TEM NO LIVRO DO PAULO NADER..md",
+    "crie um link.md",
+    "Bem-vindo.md"
+  ]
+}
