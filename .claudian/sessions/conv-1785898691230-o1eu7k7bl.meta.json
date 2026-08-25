@@ -1,0 +1,28 @@
+{
+  "id": "conv-1785898691230-o1eu7k7bl",
+  "providerId": "codex",
+  "title": "Refinar texto com pesquisa e organização",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785898691239,
+  "updatedAt": 1786070594084,
+  "lastResponseAt": 1785900079530,
+  "sessionId": "019fcfdb-729d-7713-80e7-9ef4a4200671",
+  "selectedModel": "gpt-5.6-sol",
+  "providerState": {
+    "threadId": "019fcfdb-729d-7713-80e7-9ef4a4200671",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\hever\\.codex\\sessions\\2026\\08\\04\\rollout-2026-08-04T23-58-13-019fcfdb-729d-7713-80e7-9ef4a4200671.jsonl",
+    "transcriptRootPath": "C:\\Users\\hever\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "usage": {
+    "inputTokens": 103532,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 102144,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 103532,
+    "percentage": 40,
+    "model": "gpt-5.6-sol"
+  }
+}

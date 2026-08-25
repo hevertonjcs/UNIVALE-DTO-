@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1785898691230-o1eu7k7bl",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785898691294-hl7umb9",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1785898691228-s9brcj7",
+      "timestamp": 1785898691228,
+      "rawDisplayText": "vamos refinar esse texro agora e ajustar com a skill de organizartexto e aonde eu pedir para o chat gpt pesquisar tu pesquisa e coloca pra min ok",
+      "canonicalText": "vamos refinar esse texro agora e ajustar com a skill de organizartexto e aonde eu pedir para o chat gpt pesquisar tu pesquisa e coloca pra min ok",
+      "context": {
+        "currentNote": {
+          "path": "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/Rascunhos/CONSTITUCIONAL AULA 1 0408.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "a865295912ac07a9ff5ba39d20584054876dce792a74ae27b31ecf933a54d091",
+      "providerUserMessageId": "019fcfdb-775a-7911-93f0-aa709ad19cfa",
+      "providerAssistantMessageId": "msg_020278a2c25ee0df016a72a78aa2488191b42b690f2d635a60"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785899300808-ndroeys",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1785899300803-zgz5i16",
+      "timestamp": 1785899300803,
+      "rawDisplayText": "na etapa 5 coloquei o seguinte texto:\nO estado contemporâneo  - fases \n\n1 estado literal clássico - SEC XVIII > Conformação mínima, embasado numa constituição sintética, não intervencionista, preocupado com a estrutura de formação burocrática , Flexível, quando a possibilidade de alteração, objetivando preservar os insteresses de 1a dimensão: Vida e Propriedade, cujo pode se consubstancia na lei - Poder legislativo;\n\n2 estado liberal social de direito:SEC XIX/xx INTERVENCIONISTA, prestador, voltado as contradições sociais, direitos de 2a dimensão: agrega questões sociais, ex. CLT, previdência, alicerçado numa constituição analítica, Ampla, extensa, Rígida, cujo centro de poder é atribuído ao executivo encarregado dos serviços.\n\n3 ESTADO DEMOCRÁTICO DE DIREITO: SEC XX E XXI VOLTADO A FIGURA DO CIDADÃO, a preservação do postulado da dignidade da pessoa, através de uma visão solidária, optando pela preservação do meio ambiente e da paz universal; direitos de 3A dimensão. Trata-se de uma constituição analítica e, centro de poder - Judiciário. \n\ntudo isso foi apresentado em aula e no quadro eu anotei nao quero que voce tire o formato e nem desmonte a estrutura, e ajeite oque ta em maiusculo e tal. ok",
+      "canonicalText": "na etapa 5 coloquei o seguinte texto:\nO estado contemporâneo  - fases \n\n1 estado literal clássico - SEC XVIII > Conformação mínima, embasado numa constituição sintética, não intervencionista, preocupado com a estrutura de formação burocrática , Flexível, quando a possibilidade de alteração, objetivando preservar os insteresses de 1a dimensão: Vida e Propriedade, cujo pode se consubstancia na lei - Poder legislativo;\n\n2 estado liberal social de direito:SEC XIX/xx INTERVENCIONISTA, prestador, voltado as contradições sociais, direitos de 2a dimensão: agrega questões sociais, ex. CLT, previdência, alicerçado numa constituição analítica, Ampla, extensa, Rígida, cujo centro de poder é atribuído ao executivo encarregado dos serviços.\n\n3 ESTADO DEMOCRÁTICO DE DIREITO: SEC XX E XXI VOLTADO A FIGURA DO CIDADÃO, a preservação do postulado da dignidade da pessoa, através de uma visão solidária, optando pela preservação do meio ambiente e da paz universal; direitos de 3A dimensão. Trata-se de uma constituição analítica e, centro de poder - Judiciário. \n\ntudo isso foi apresentado em aula e no quadro eu anotei nao quero que voce tire o formato e nem desmonte a estrutura, e ajeite oque ta em maiusculo e tal. ok",
+      "images": [],
+      "contentDigest": "52c632c04c69ff9b7fb3452b1fea926f9721523b73a1e83e78ef89f79a0dd521",
+      "providerUserMessageId": "019fcfe4-b7f3-7dc2-a1d0-4621d6090130",
+      "providerAssistantMessageId": "msg_020278a2c25ee0df016a72a950b8748191be298dfa3633fca2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785899497039-xfs8ozv",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1785899497035-w45bh95",
+      "timestamp": 1785899497035,
+      "rawDisplayText": "nao era pra resumir ou alterar as palavras",
+      "canonicalText": "nao era pra resumir ou alterar as palavras",
+      "images": [],
+      "contentDigest": "158445fccac3ba0b4e87eff11795f902a984400390e08a9a28da8e7897a1d19b",
+      "providerUserMessageId": "019fcfe7-b67b-7ee3-99f3-384ce6bec44b",
+      "providerAssistantMessageId": "msg_020278a2c25ee0df016a72aa0f7b6481918f650f765b0a8091"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785899814341-bisv86x",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1785899814338-hhxv5zl",
+      "timestamp": 1785899814338,
+      "rawDisplayText": "Nessa parte e para voce me entregar um leve resumo sobre a constituição sobre oque abrota a partir do artigo 50, oque aborda a partir do artigo 80 e oque abortar a partir do 100 pois sei que fala sobre judiciario, legislativo, e etc.",
+      "canonicalText": "Nessa parte e para voce me entregar um leve resumo sobre a constituição sobre oque abrota a partir do artigo 50, oque aborda a partir do artigo 80 e oque abortar a partir do 100 pois sei que fala sobre judiciario, legislativo, e etc.",
+      "context": {
+        "editorSelection": {
+          "notePath": "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/Rascunhos/CONSTITUCIONAL AULA 1 0408.md",
+          "mode": "selection",
+          "selectedText": "> [!warning] Anotação incompleta\n> Também foram registradas as expressões “a partir do 50”, “a partir do 80” e “a partir do 100”. Não há contexto suficiente para identificar se elas se referem a artigos da Constituição, blocos temáticos ou outro esquema apresentado pelo professor.",
+          "lineCount": 2,
+          "startLine": 180
+        }
+      },
+      "images": [],
+      "contentDigest": "826bb71fcb2dbda1f17cdaa551a653078f9b0c585b332a39ad43a88b8e98a6bd",
+      "providerUserMessageId": "019fcfec-8dfe-74b3-9e9c-3b65b471de8d",
+      "providerAssistantMessageId": "msg_020278a2c25ee0df016a72ab7ee1f081919e3aeddb562af619"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785900007430-x49wi8z",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1785900007427-poeoce1",
+      "timestamp": 1785900007427,
+      "rawDisplayText": "fala ali em baixo um pouco doque seria esses arquitos e as consituições que temos, Detalhe pode ser de forma simples ok sem extender demais.",
+      "canonicalText": "fala ali em baixo um pouco doque seria esses arquitos e as consituições que temos, Detalhe pode ser de forma simples ok sem extender demais.",
+      "context": {
+        "editorSelection": {
+          "notePath": "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/Rascunhos/CONSTITUCIONAL AULA 1 0408.md",
+          "mode": "selection",
+          "selectedText": "Ao longo da disciplina, serão estudadas as diferentes Constituições brasileiras e, com maior detalhamento, os arts. **3º, 4º, 5º, 6º e 7º** da Constituição Federal de 1988.",
+          "lineCount": 1,
+          "startLine": 216
+        }
+      },
+      "images": [],
+      "contentDigest": "90e0af173f2d47df8b87ef8e6be01caa8be7b55a669f8de1bbbd21d23a35b51d",
+      "providerUserMessageId": "019fcfef-804f-7a72-b9a2-a4e9ea963671",
+      "providerAssistantMessageId": "msg_020278a2c25ee0df016a72ac2da8548191a31e1ef87f599e5b"
+    }
+  ]
+}

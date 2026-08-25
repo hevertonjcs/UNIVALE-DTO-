@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d555b7c6ee9d4ffb",
+        "id": "9031c2a7dd762c0f",
         "type": "tabs",
         "children": [
           {
-            "id": "2acfa647a9eb9d41",
+            "id": "0e3a16b1fa7621c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROFESSORES.md",
+                "file": "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/Rascunhos/CONSTITUCIONAL AULA 2508.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROFESSORES"
+              "title": "CONSTITUCIONAL AULA 2508"
             }
           }
         ]
@@ -42,7 +42,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AULAS/TEORIA DO DIREITO/Aula 1 - Teoria do direito - 0308.md",
+                "file": "Sem título.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,13 +179,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "688acef653103ab7",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,33 +206,58 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "2acfa647a9eb9d41",
+  "active": "0e3a16b1fa7621c9",
   "lastOpenFiles": [
-    "AULAS/TEORIA DO DIREITO/Aula 1 0308 - Resumo.md",
-    "Arquivos de IMG/ChatGPT Image 3 de ago. de 2026, 22_05_46.png",
-    "PROFESSORES.md",
-    "Sem título 1.canvas",
-    "Sem título.canvas",
+    "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/CONSTITUCIONAL AULAS.md",
+    "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/Rascunhos/CONSTITUCIONAL AULA 2508.md",
+    "AULAS/TEORIA DO DIREITO/A2 e A3 - Teoria Tridimensional do Direito.md",
+    "AULAS/TEORIA DO DIREITO/GERAL GEMINI.md",
+    "AULAS/DIREITO CIVIL - Pessoas e Bens/Direito Civil - Introdução, tempo, Estado e poder.md",
+    "Others/CONSTITUCIONAL AULA 3 FALTEI AULA 2.md",
+    "Others/CONSTITUCIONAL AULA 3 - Definição e classificação das Constituições.md",
+    "Others",
+    "AULAS/TEORIA DO DIREITO/Rascunhos/aula 4 24 08 26.md",
     "LIVROS/Introdução ao Estudo do Direito -- NADER, Paulo --.pdf",
-    "NOTAS SEM OCONTEXTO.md",
-    "PALAVRAS/PALAVRAS & GLOSSARIO DE AULA.md",
-    "Arquivos de IMG",
+    "AULAS/TEORIA DO DIREITO/A1 - Características do Direito.md",
     "AULAS/TEORIA DO DIREITO/Rascunhos/A1 0308.md",
+    "AULAS/DIREITO PENAL - Teoria do crime/Rascunhos/AULA 3.md",
+    "AULAS/DIREITO PENAL - Teoria do crime/Rascunhos/DIREITO PENAL.md",
+    "AULAS/LINGUAGEM JURÍDICA/Rascunhos/primeira aula de linguagem juridica..md",
+    "PROFESSORES.md",
+    "NOTAS SEM OCONTEXTO.md",
+    "Others/Arquivos de IMG/ChatGPT Image 5 de ago. de 2026, 00_31_13 1.png",
+    "AULAS/TEORIA DO DIREITO/Rascunhos/A2 1008.md",
+    "AULAS/TEORIA DO DIREITO/Anexos/teoria-tridimensional-norma-fato-valor.png",
+    "AULAS/TEORIA DO DIREITO/Anexos/observador-triangulo-norma-fato-valor.png",
+    "AULAS/TEORIA DO DIREITO/Anexos",
+    "AULAS/TEORIA DO DIREITO/Rascunhos/A3 1708.md",
+    "AULAS/DIREITO PENAL - Teoria do crime/Direito Penal - Parte Geral I.md",
+    "LIVROS/LIVROS DO BRAULIO",
+    "AULAS/DIREITO CIVIL - Pessoas e Bens/Rascunhos/BRAULIO.md",
+    "Others/Arquivos de IMG/ChatGPT Image 5 de ago. de 2026, 00_31_13.png",
+    "Others/Arquivos de IMG/ChatGPT Image 5 de ago. de 2026, 00_28_17.png",
+    "ChatGPT Image 5 de ago. de 2026, 00_25_10.png",
+    "Others/Arquivos de IMG/ChatGPT Image 4 de ago. de 2026, 23_46_57.png",
+    "Others/Arquivos de IMG/ChatGPT Image 3 de ago. de 2026, 22_05_46.png",
+    "Sem título.canvas",
+    "AULAS/TEORIA DO DIREITO/Rascunhos/Aula 1 0308 - Resumo.md",
+    "AULAS/TEORIA DO DIREITO/Rascunhos/Aula 1 - Introdução e características do Direito.md",
+    "AULAS/TEORIA DO DIREITO/Rascunhos/Aula 1 - Introdução e características do Direito OLD.md",
+    "AULAS/TEORIA DO DIREITO/Rascunhos/Aula 1 - Introdução e características do Direito - Versão 2.md",
+    "Sem título 1.canvas",
+    "PALAVRAS/PALAVRAS & GLOSSARIO DE AULA.md",
+    "Others/Arquivos de IMG",
     "AULAS/DIREITO CIVIL - Pessoas e Bens/Rascunhos",
     "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/Rascunhos",
     "AULAS/DIREITO PENAL - Teoria do crime/Rascunhos",
     "AULAS/LINGUAGEM JURÍDICA/Rascunhos",
     "AULAS/TEORIA DO DIREITO/Rascunhos",
-    "Introdução ao Estudo do Direito -- NADER, Paulo --.pdf",
-    "LIVROS",
-    "Sem título.md",
-    "2026_2_EDITAL_N_010_FUNDACAO_2026_Homologa_e_Divulga_Resultado_Preliminar_Inscricoes_Universidade_Gratuita_2026_2_08f7bbca56.pdf",
     "TESTES.md",
-    "QUE É PASSADO TEM NO LIVRO DO PAULO NADER..md",
-    "crie um link.md",
-    "Bem-vindo.md"
+    "QUE É PASSADO TEM NO LIVRO DO PAULO NADER..md"
   ]
 }

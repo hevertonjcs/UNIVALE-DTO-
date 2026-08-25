@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787618588305-ttpkszgua",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787618588361-xogeqc4",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787618588302-5o48am1",
+      "timestamp": 1787618588302,
+      "rawDisplayText": "na parte 3) Que garantias o Direito proporciona ao indivíduo, quando da interação social? (4 linhas)\n, faça a resposta e me evolva ela ali aonde tem o R: consulte tambem o livro de introducao ao estudo de direito.",
+      "canonicalText": "na parte 3) Que garantias o Direito proporciona ao indivíduo, quando da interação social? (4 linhas)\n, faça a resposta e me evolva ela ali aonde tem o R: consulte tambem o livro de introducao ao estudo de direito.",
+      "context": {
+        "currentNote": {
+          "path": "AULAS/TEORIA DO DIREITO/Rascunhos/aula 4 24 08 26.md"
+        },
+        "editorSelection": {
+          "notePath": "AULAS/TEORIA DO DIREITO/Rascunhos/aula 4 24 08 26.md",
+          "mode": "selection",
+          "selectedText": "3) Que garantias o Direito proporciona ao indivíduo, quando da interação social? (4 linhas)\n",
+          "lineCount": 2,
+          "startLine": 59
+        }
+      },
+      "images": [],
+      "contentDigest": "ddc144cc460599843ee70df787137cdbdb71976c0348456f82a04f56fa792143",
+      "providerUserMessageId": "01a0365f-028b-76f0-b847-560ec3893d39"
+    }
+  ]
+}

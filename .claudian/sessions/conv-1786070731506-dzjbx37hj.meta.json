@@ -1,0 +1,29 @@
+{
+  "id": "conv-1786070731506-dzjbx37hj",
+  "providerId": "codex",
+  "title": "Criar nota com Organizartexto",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786070731510,
+  "updatedAt": 1787618648415,
+  "lastResponseAt": 1786070914951,
+  "sessionId": "019fda1c-8ea4-7e01-bc3e-c7ec0ad6afcf",
+  "selectedModel": "gpt-5.6-sol",
+  "providerState": {
+    "threadId": "019fda1c-8ea4-7e01-bc3e-c7ec0ad6afcf",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\hever\\.codex\\sessions\\2026\\08\\06\\rollout-2026-08-06T23-45-32-019fda1c-8ea4-7e01-bc3e-c7ec0ad6afcf.jsonl",
+    "transcriptRootPath": "C:\\Users\\hever\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "currentNote": "AULAS/DIREITO CIVIL - Pessoas e Bens/Rascunhos/BRAULIO.md",
+  "usage": {
+    "inputTokens": 34758,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32512,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 34758,
+    "percentage": 13,
+    "model": "gpt-5.6-sol"
+  }
+}

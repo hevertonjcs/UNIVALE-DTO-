@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786225336029-ldwvwcplu",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786225336098-f08iamn",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786225336025-atwi1ct",
+      "timestamp": 1786225336025,
+      "rawDisplayText": "vamos criar uma nota nota, usando usando a skill de Organizartexto. muito que estaescrito quero que refine mas nao retire nenhuma palavra ok pois sao coisas importantes que foram passadas com slide",
+      "canonicalText": "vamos criar uma nota nota, usando usando a skill de Organizartexto. muito que estaescrito quero que refine mas nao retire nenhuma palavra ok pois sao coisas importantes que foram passadas com slide",
+      "context": {
+        "currentNote": {
+          "path": "AULAS/DIREITO PENAL - Teoria do crime/Rascunhos/DIREITO PENAL.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "e8ea0b20c7d2e75ef814c2b81b93376ea98e7f499ed1b43bd16e886d19b2176e",
+      "providerUserMessageId": "019fe353-abc1-74d1-8606-a4d4763fa566",
+      "providerAssistantMessageId": "msg_0da38da01bac27e3016a77a383325c8191a8e473c35196adc9"
+    }
+  ]
+}

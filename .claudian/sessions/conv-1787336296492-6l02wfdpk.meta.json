@@ -1,0 +1,28 @@
+{
+  "id": "conv-1787336296492-6l02wfdpk",
+  "providerId": "codex",
+  "title": "Criar nota com Organizartexto",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787336296498,
+  "updatedAt": 1787618549200,
+  "lastResponseAt": 1787336832893,
+  "sessionId": "01a0258b-8c22-7291-bd80-7134a78108be",
+  "selectedModel": "gpt-5.6-sol",
+  "providerState": {
+    "threadId": "01a0258b-8c22-7291-bd80-7134a78108be",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\hever\\.codex\\sessions\\2026\\08\\21\\rollout-2026-08-21T15-18-17-01a0258b-8c22-7291-bd80-7134a78108be.jsonl",
+    "transcriptRootPath": "C:\\Users\\hever\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "usage": {
+    "inputTokens": 82973,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 81792,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 82973,
+    "percentage": 32,
+    "model": "gpt-5.6-sol"
+  }
+}

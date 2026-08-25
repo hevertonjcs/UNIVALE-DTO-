@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1785867253730-bxipl53hh",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785867253800-c4y0lhr",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1785867253728-bl5kmdx",
+      "timestamp": 1785867253728,
+      "rawDisplayText": "use a skill organizartexto para refinar esse conteudo e entrege em uma nota separada dentro da mesma pasta",
+      "canonicalText": "use a skill organizartexto para refinar esse conteudo e entrege em uma nota separada dentro da mesma pasta",
+      "context": {
+        "currentNote": {
+          "path": "AULAS/TEORIA DO DIREITO/Rascunhos/A1 0308.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "c8a94d76edbd42589b658a781fd9ff7821e3e4deeb2d7faf82133f8170ae6ecd",
+      "providerUserMessageId": "019fcdfb-b9e4-7e82-848e-5d60e1bef86b",
+      "providerAssistantMessageId": "msg_0286ac6e79bac330016a722c5d501c8191b099330327ddfcfb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785868051840-y18h23r",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1785868051837-0zotruf",
+      "timestamp": 1785868051837,
+      "rawDisplayText": "use a skill organizartexto para refinar esse conteudo e entrege em uma nota separada dentro da mesma pasta",
+      "canonicalText": "use a skill organizartexto para refinar esse conteudo e entrege em uma nota separada dentro da mesma pasta",
+      "images": [],
+      "contentDigest": "c8a94d76edbd42589b658a781fd9ff7821e3e4deeb2d7faf82133f8170ae6ecd",
+      "providerUserMessageId": "019fce07-e5ad-7121-b3bd-070cf8c11b8f",
+      "providerAssistantMessageId": "msg_0286ac6e79bac330016a722f1cec40819191786ec62dd0f23d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785868130748-6cckyqe",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1785868130745-sbpnqri",
+      "timestamp": 1785868130745,
+      "rawDisplayText": "atualizei a skil e agora use a skill organizartexto para refinar esse conteudo e entrege em uma nota separada dentro da mesma pasta, sim voce vai fazer novamente",
+      "canonicalText": "atualizei a skil e agora use a skill organizartexto para refinar esse conteudo e entrege em uma nota separada dentro da mesma pasta, sim voce vai fazer novamente",
+      "images": [],
+      "contentDigest": "5ca6801710fd1e960cd5d597a6310ba3e9063f1014584682046d4905f98695de",
+      "providerUserMessageId": "019fce09-19fa-73f3-b0e6-328eefabe3d8",
+      "providerAssistantMessageId": "msg_0286ac6e79bac330016a722fdaca7c819195000bb473b80dc8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785869485631-6xruynl",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1785869485628-ue3ry02",
+      "timestamp": 1785869485628,
+      "rawDisplayText": "atualizei a skill faz uma nova vers'ao do resumo pra min usando a skill",
+      "canonicalText": "atualizei a skill faz uma nova vers'ao do resumo pra min usando a skill",
+      "images": [],
+      "contentDigest": "4e98953da54b9fd8c8aa4756842120c51dfbccf19d743c0a6031a3ec2ef577c6",
+      "providerUserMessageId": "019fce1d-c667-7b62-b25c-e59f981b9853",
+      "providerAssistantMessageId": "msg_0286ac6e79bac330016a7234f93a3c8191a3a4ac5657b75a42"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785870372343-l5lweoa",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1785870372340-d8skjyk",
+      "timestamp": 1785870372340,
+      "rawDisplayText": "Ajustei a skill vamos fazer uma nova ta bom e o titulo pode mander onumero 0308 pois e a data",
+      "canonicalText": "Ajustei a skill vamos fazer uma nova ta bom e o titulo pode mander onumero 0308 pois e a data",
+      "images": [],
+      "contentDigest": "c2148df20b2ec884024f7408e86508ae3c93525a87d7fa1cd34801837791f715",
+      "providerUserMessageId": "019fce2b-4e25-7541-988a-27298f114974",
+      "providerAssistantMessageId": "msg_0286ac6e79bac330016a72386d40088191aced69059bc0d819"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785871297436-niehayw",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1785871297433-hfrq09f",
+      "timestamp": 1785871297433,
+      "rawDisplayText": "fiz uma vessao nova, vamos testar usa a skill organizartexto para fazer um refinamento das anotacoes",
+      "canonicalText": "fiz uma vessao nova, vamos testar usa a skill organizartexto para fazer um refinamento das anotacoes",
+      "images": [],
+      "contentDigest": "744386166051568b2ace623e16b74cd6f7305f735f44c6be8ddeba05a72900b2",
+      "providerUserMessageId": "019fce39-6bc5-7c51-8341-765e034e89ca",
+      "providerAssistantMessageId": "msg_0286ac6e79bac330016a723c0ca00c8191aa5d639df05f2420"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785872096924-3mljhhm",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1785872096921-03o78lh",
+      "timestamp": 1785872096921,
+      "rawDisplayText": "fiz uma nova vers'ao vamos testar",
+      "canonicalText": "fiz uma nova vers'ao vamos testar",
+      "context": {
+        "editorSelection": {
+          "notePath": "AULAS/TEORIA DO DIREITO/Rascunhos/0308 - Características do Direito.md",
+          "mode": "selection",
+          "selectedText": "# 0308 — Características do Direito\n\n**Professor:** Rafael\n\n## Introdução à disciplina\n\nEsta era a antiga matéria de **iniciação ao curso de Direito**.\n\nA intenção da matéria é compreender que o profissional do Direito é quem encontra, de alguma forma, uma **solução jurídica para resolver um problema**.\n\nNa área do Direito, haverá muita linguagem formal.\n\n> [!note] Dicionário jurídico\n> Providenciar um dicionário jurídico para acompanhar as palavras. Anotar os termos e tirar as dúvidas no próprio dicionário jurídico.\n\n> [!quote] Frase apresentada em aula\n> “Quem quer fazer o bem faz um curso de cuidados; aqui você vai ser do mal.”\n\nO Direito preenche um espaço social com o intuito de normalizar as situações por meio de normas, dizendo o que deve ou não ser feito. Assim, sai-se da lógica do “dente por dente”, seguindo o Estado.\n\nO Estado de Direito organiza as coisas por áreas, como Direito Penal, Direito Civil etc.\n\n> [!important] Comunicação e Direito\n> A essência do Direito é a fala, pois somos seres que vivem por meio da comunicação.\n\n### Referências indicadas\n\n==Paulo Nader é a referência do professor, com o livro _Introdução ao Estudo do Direito_, 12ª edição.==\n\nTudo o que é passado em aula está no livro de Paulo Nader. Se o estudo for feito com base no livro, pode-se considerar o conteúdo passado.\n\n**Rizzatto Nunes** é outro autor mais moderno sobre o mesmo tema.\n\n### Plano de ensino e avaliações\n\nAs provas ocorrerão a cada seis estudos, totalizando **18 encontros**:\n\n* **M1:** 6ª aula;\n* **M2:** 12ª aula;\n* **M3:** 18ª aula.\n\nAs provas serão tradicionais, sem consulta. Cairá todo o conteúdo até uma aula antes da prova. A orientação registrada é organizar os estudos por seis dias.\n\n> [!warning] Anotação incompleta\n> A orientação “organizar por seis dias” foi preservada conforme registrada e poderá ser complementada futuramente.\n\nA prova oral, de segunda chamada, será realizada presencialmente e terá como base um artigo.\n\nAlgumas informações importantes para situar o Direito no dia a dia não serão encontradas nos livros.\n\n## 1. O Direito é intangível e imaterial\n\nFórum e polícia são evidências do sistema jurídico: tudo aquilo que mostra ou demonstra o Direito é uma evidência.\n\nExistem normas que atuam no meio jurídico. Elas são intangíveis, mas aplicáveis à realidade.\n\nNada é físico; tudo é papel. Ainda assim, tudo pode gerar segurança jurídica ou consequência jurídica.\n\nDemocracia e não democracia também podem ser vivenciadas; quem as vive pode sofrer consequências jurídicas e riscos jurídicos.\n\n> [!quote] Frase apresentada em aula\n> “O Estado não entrega amor, mas você vê a dor que é entregue.”\n\nO Estado foi comparado a um T-Rex ou a uma grande máquina de moer interesses individuais. Nesse contexto, o advogado é quem tira o indivíduo do foco para o qual o Estado está apontando.\n\nUma instituição democrática não olha para quem será atingido, conforme a representação da deusa grega da Justiça, com a espada e os olhos vendados.\n\n> [!note] Observação apresentada em aula\n> O modelo atual do Brasil precisa de evolução, pois viveria como se fosse uma aristocracia. Como exemplo, foi apresentada a ideia de que o Supremo funcionaria como um grupo de pessoas com determinado conjunto de benefícios em comparação com outras pessoas.\n\n### Estado de sítio\n\nO estado de sítio é uma medida política e jurídica de exceção e emergência. No Brasil, é regulamentado pela Constituição Federal e serve para lidar com crises muito graves, como guerras ou grave instabilidade nacional.\n\n### O Direito é interpretativo\n\nPor isso, o Direito é totalmente interpretativo. Não há necessidade de ter pressa para formar uma opinião: antes, é preciso entender quem é a pessoa, por que está fazendo aquilo e o que aconteceu, para só depois emitir uma opinião.\n\n> [!example] Exemplos apresentados em aula\n> * Escola Base;\n> * caso Orelha.\n\nNa culinária, o prato é o produto. No Direito, não existe esse prato de uma receita: pode existir uma sentença, mas ela é intangível; não se toca nem se sente. Por isso, observa-se a consequência ou o risco.\n\n## 2. O Direito é abstrato\n\nHá o direito ao livre ofício: o direito de escolher onde se quer trabalhar, ou seja, a livre iniciativa no trabalho.\n\nÉ possível querer ser astronauta, mesmo que não haja foguetes no Brasil.\n\nEm outros países, o Estado é quem direciona para onde a pessoa pode trabalhar e a separa durante o processo de estudo.\n\n> [!example] Exemplos apresentados em aula\n> * No Japão, a pessoa não teria direito de ir e vir se não tivesse um dos três motivos indicados: faculdade, trabalho ou casamento.\n> * Em Portugal, se a pessoa estiver no seguro-desemprego e surgir uma proposta de emprego em um raio de 50 km, ela poderá perder o seguro-desemprego.\n\n> [!warning] Verificar\n> Estas informações foram registradas conforme apresentadas em aula, mas podem exigir confirmação jurídica, histórica ou acadêmica.\n\nPor ser abstrato, o Direito não é visto de maneira unificada: cada pessoa pode vê-lo e enxergá-lo de certa forma.\n\nComo melhor exemplo, o Direito é a opinião sobre o que se vê e se visualiza na própria percepção; por isso, possui aspecto abstrato.\n\nEssa perspectiva não é simples e pode gerar muita confusão.\n\nQuando as testemunhas vão narrar um fato, o depoimento deve permanecer alinhado do início ao fim, sem diferenças, pois isso convence o juiz.\n\n> [!example] Exemplo\n> **Servidor** pode ser público ou de computador, pois isso pode ser abstrato.\n\nPor conta disso, muita coisa se repete para chegar a uma conclusão que possa convencer. É preciso se convencer.\n\n## 3. O Direito é um fenômeno\n\nO sistema jurídico repercute na vida social: nome, IP e acesso. Ou seja, ele é um titã, é enorme e afeta brutalmente.\n\nEle é um fenômeno real, pois existe.\n\nOutras coisas também têm essas três características, como o amor e a fé. Porém, elas não são um fenômeno cultural.\n\n> [!warning] Trecho incompleto\n> A anotação original não possui informações suficientes para identificar quais são as três características mencionadas.\n\n> [!important] Anotação apresentada em aula\n> O Direito é um fenômeno natural e normativo.\n\n### Política\n\nSe é liderança, é política. Se é governo, é política. Logo, a família tem política: são exercícios de política.\n\n![[ChatGPT Image 3 de ago. de 2026, 22_05_46.png]]\n\n### Direito Natural\n\nÉ o conjunto de direitos que a pessoa tem **por existir**, independentemente de qualquer lei criada pelo governo.\n\n* Direito à vida;\n* direito à liberdade;\n* direito à dignidade da pessoa.\n\n**Onde aparece na sociedade?** São princípios que inspiram leis e decisões da Justiça, como a proteção da vida e dos direitos humanos.\n\n### Direito Positivo\n\nÉ o conjunto de **leis e normas criadas pelo Estado**, que precisam ser obedecidas.\n\n* Constituição Federal;\n* Código Penal;\n* Código de Trânsito Brasileiro (CTB);\n* Código Civil.\n\n**Onde aparece na sociedade?**\n\n* Usar cinto de segurança;\n* pagar impostos;\n* respeitar o limite de velocidade;\n* cumprir contratos.\n\n### Resumo em uma frase\n\n* **Direito Natural:** direitos que nascem com a pessoa, assim como os indígenas;\n* **Direito Positivo:** leis escritas e criadas pelo Estado.\n\n## 4. História do Direito e sistema de poder\n\nA História do Direito precisa ser estudada, pois o sistema jurídico é um grande sistema de poder.\n\n**Max Weber** é o autor que fala sobre a burocracia.\n\nComparar Esparta e Atenas é interessante, pois isso tem ligação com a História do Direito.\n\nNem sempre os fatos são como eu os vejo. O livro _O Caso dos Exploradores de Cavernas_ fala sobre isso.\n\n> [!summary] Pontos principais\n> * O Direito busca soluções jurídicas para problemas e organiza a vida social por meio de normas e da atuação do Estado.\n> * O Direito foi apresentado como intangível, imaterial, interpretativo, abstrato, natural e normativo.\n> * O Direito Natural corresponde a direitos que a pessoa possui por existir; o Direito Positivo reúne leis e normas criadas pelo Estado.\n> * A História do Direito auxilia na compreensão do sistema jurídico como um grande sistema de poder.\n\n#teoria-do-direito #introdução-ao-direito #direito-natural #direito-positivo\n",
+          "lineCount": 181,
+          "startLine": 1
+        }
+      },
+      "images": [],
+      "contentDigest": "0b349ed7d43395a1dae30e8997c6e655c29ada722343da15acabf412dfd4aa84",
+      "providerUserMessageId": "019fce45-9ec5-7c81-96f3-e6dfae995d61",
+      "providerAssistantMessageId": "msg_0286ac6e79bac330016a723f2dcb6881918a0fbc5e89d1c5b5"
+    }
+  ]
+}

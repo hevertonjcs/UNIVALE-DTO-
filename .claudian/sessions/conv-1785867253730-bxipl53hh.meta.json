@@ -1,0 +1,29 @@
+{
+  "id": "conv-1785867253730-bxipl53hh",
+  "providerId": "codex",
+  "title": "Organizar nota com skill organizartexto",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785867253734,
+  "updatedAt": 1785872175647,
+  "lastResponseAt": 1785872175647,
+  "sessionId": "019fcdfb-b911-7e90-8df1-80934e21b2fb",
+  "selectedModel": "gpt-5.6-terra",
+  "providerState": {
+    "threadId": "019fcdfb-b911-7e90-8df1-80934e21b2fb",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\hever\\.codex\\sessions\\2026\\08\\04\\rollout-2026-08-04T15-14-14-019fcdfb-b911-7e90-8df1-80934e21b2fb.jsonl",
+    "transcriptRootPath": "C:\\Users\\hever\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "currentNote": "AULAS/TEORIA DO DIREITO/Rascunhos/A1 0308.md",
+  "usage": {
+    "inputTokens": 88092,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 86784,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 88092,
+    "percentage": 34,
+    "model": "gpt-5.6-terra"
+  }
+}

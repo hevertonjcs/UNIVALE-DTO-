@@ -31,3 +31,5 @@ Uma boa base teórica é essencial para a formação profissional.
 Sem essa base, o estudante pode ter dificuldades tanto na prova da OAB quanto no exercício da profissão.
 
 _________________________________________________________________
+ O PROFESSOR ATUAVA EM ESCRITORIO DE MANHA E NO ESTADO A TARDE, SERVIDOR PUBLICO PODE TER ROTIDA DE TRABALAHO EM DOIS EMPREGOS.
+

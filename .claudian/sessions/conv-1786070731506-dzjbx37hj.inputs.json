@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786070731506-dzjbx37hj",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786070731562-9ahpyfu",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786070731504-rwc27b5",
+      "timestamp": 1786070731504,
+      "rawDisplayText": "vamos criar uma nota nota, usando usando a skill de Organizartexto. Tudo que esta entre & e & quero que refine mas nao retire nenhuma palavra ok pois sao coisas importantes",
+      "canonicalText": "vamos criar uma nota nota, usando usando a skill de Organizartexto. Tudo que esta entre & e & quero que refine mas nao retire nenhuma palavra ok pois sao coisas importantes",
+      "context": {
+        "currentNote": {
+          "path": "AULAS/DIREITO CIVIL - Pessoas e Bens/Rascunhos/BRAULIO.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "609fecaa5d90434563ccf327b3662a51f4f703d7856b169be488dc232f9e960f",
+      "providerUserMessageId": "019fda1c-92f4-7453-822d-4709ceaf9cfa",
+      "providerAssistantMessageId": "msg_0cff26363b04a637016a75477f84608191ae934feed222bd41"
+    }
+  ]
+}

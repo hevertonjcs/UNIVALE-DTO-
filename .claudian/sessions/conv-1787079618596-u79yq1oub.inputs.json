@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787079618596-u79yq1oub",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787079618652-yla2nm2",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787079618593-7khbq8i",
+      "timestamp": 1787079618593,
+      "rawDisplayText": "vamos criar uma nota nota, usando usando a skill de Organizartexto. muito que estaescrito quero que refine mas nao retire nenhuma palavra ok pois sao coisas importantes que foram passadas com slide.\n\naonde eu pedi para gerar uma imagem e coisa  do tipo pode gerar, mas sem retirar o texto ok.",
+      "canonicalText": "vamos criar uma nota nota, usando usando a skill de Organizartexto. muito que estaescrito quero que refine mas nao retire nenhuma palavra ok pois sao coisas importantes que foram passadas com slide.\n\naonde eu pedi para gerar uma imagem e coisa  do tipo pode gerar, mas sem retirar o texto ok.",
+      "context": {
+        "currentNote": {
+          "path": "AULAS/TEORIA DO DIREITO/Rascunhos/A2 1008.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "9176831957339da99e007e07ffb2ee7bd754c3f739799efb732b449d676c6423",
+      "providerUserMessageId": "01a0163e-f886-7493-af5b-1be2ed9b9985",
+      "providerAssistantMessageId": "msg_0d6c83ebd3bcc39f016a84acde3b48819187bf2daf55399c12"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787079943248-jz0fyon",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787079943245-qef8ppr",
+      "timestamp": 1787079943245,
+      "rawDisplayText": "mas cade a nota principal",
+      "canonicalText": "mas cade a nota principal",
+      "images": [],
+      "contentDigest": "33513d740997003f39a95a136fa7951bf0976bdfae2b9cea1880c7589d0d5772",
+      "providerUserMessageId": "01a01643-e47a-7811-8a81-4e8c4aeca3f7",
+      "providerAssistantMessageId": "msg_0d6c83ebd3bcc39f016a84ad6b405c8191b7a6b3afc35efa2e"
+    }
+  ]
+}

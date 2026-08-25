@@ -1,0 +1,28 @@
+{
+  "id": "conv-1787079618596-u79yq1oub",
+  "providerId": "codex",
+  "title": "Criar nota organizada sem remover texto",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787079618602,
+  "updatedAt": 1787336185945,
+  "lastResponseAt": 1787080047783,
+  "sessionId": "01a0163e-f4ac-7601-a1bc-01cc87beb2d3",
+  "selectedModel": "gpt-5.6-sol",
+  "providerState": {
+    "threadId": "01a0163e-f4ac-7601-a1bc-01cc87beb2d3",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\hever\\.codex\\sessions\\2026\\08\\18\\rollout-2026-08-18T16-00-19-01a0163e-f4ac-7601-a1bc-01cc87beb2d3.jsonl",
+    "transcriptRootPath": "C:\\Users\\hever\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "usage": {
+    "inputTokens": 57332,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 56704,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 57332,
+    "percentage": 22,
+    "model": "gpt-5.6-sol"
+  }
+}

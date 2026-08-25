@@ -1,0 +1,29 @@
+{
+  "id": "conv-1786225336029-ldwvwcplu",
+  "providerId": "codex",
+  "title": "Criar nota com organizartexto",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786225336035,
+  "updatedAt": 1787079593490,
+  "lastResponseAt": 1786225545680,
+  "sessionId": "019fe353-a7d8-7322-a7b9-11e600673370",
+  "selectedModel": "gpt-5.6-sol",
+  "providerState": {
+    "threadId": "019fe353-a7d8-7322-a7b9-11e600673370",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\hever\\.codex\\sessions\\2026\\08\\08\\rollout-2026-08-08T18-42-18-019fe353-a7d8-7322-a7b9-11e600673370.jsonl",
+    "transcriptRootPath": "C:\\Users\\hever\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "currentNote": "AULAS/DIREITO PENAL - Teoria do crime/Rascunhos/DIREITO PENAL.md",
+  "usage": {
+    "inputTokens": 42069,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40704,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 42069,
+    "percentage": 16,
+    "model": "gpt-5.6-sol"
+  }
+}
