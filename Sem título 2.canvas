@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a896afd62cb428ed","type":"text","text":"AÇÃO PENAL","x":-219,"y":-49,"width":159,"height":50},
+		{"id":"aab4c0accfefac16","type":"text","text":"PUBLICA (Quando o estado pode representar o crime)","x":11,"y":-105,"width":250,"height":60},
+		{"id":"a67d00796fd2d0f5","type":"text","text":"PRIVADA (quando não é o estado e sim a vitima que representa contra o crime)","x":11,"y":-24,"width":250,"height":84},
+		{"id":"beb7995a9c69f468","type":"text","text":"QUANDO É PRIVADA, TA NA LEI, QUANDO É PUBLICA, NÃO ESTÁ NA LEI. ","x":-283,"y":160,"width":463,"height":80},
+		{"id":"25ac8ca1556cd38a","type":"text","text":"ESTELIONATO ART 171 POR EXEMPLO JA ESTEVE ENQUADRADO COMO PRIVADO E AGORA ESTÁ COMO PUBLICA","x":-283,"y":260,"width":410,"height":87},
+		{"id":"53fb50b5870969e9","type":"text","text":"CONDICIONADA (A VITIMA PRECISA QUERER QUE O PROCESSO VÁ PRA FRENTE)","x":480,"y":-480,"width":250,"height":100},
+		{"id":"37a8d4bed8bdda7a","type":"text","text":"INCONDICIONADA (A VITIMA NÃO PRECISA SABER SE O PROCESSO VÁ PRA SEMPRE)","x":480,"y":-360,"width":250,"height":125},
+		{"id":"321d5e31a75d5d3b","type":"text","text":"O PROMOTOR DE JUSTIÇA É QUEM VAI ESTAR ACUSANDO","x":530,"y":-75,"width":250,"height":86},
+		{"id":"bb9cdf2cd80b3fd1","type":"text","text":"O ADVOGADO É QUEM VAI REPRESENTAR E QUEM VAI ESTAR ACUSANDO","x":530,"y":60,"width":250,"height":87}
+	],
+	"edges":[
+		{"id":"bca648e1c1fabf61","fromNode":"a896afd62cb428ed","fromSide":"right","toNode":"aab4c0accfefac16","toSide":"left"},
+		{"id":"004487e61edd0a98","fromNode":"a896afd62cb428ed","fromSide":"right","toNode":"a67d00796fd2d0f5","toSide":"left"},
+		{"id":"c5af093381e3c413","fromNode":"aab4c0accfefac16","fromSide":"right","toNode":"321d5e31a75d5d3b","toSide":"left"},
+		{"id":"ac9f353503ff9676","fromNode":"a67d00796fd2d0f5","fromSide":"right","toNode":"bb9cdf2cd80b3fd1","toSide":"left"},
+		{"id":"ef9434d45c97461f","fromNode":"aab4c0accfefac16","fromSide":"right","toNode":"37a8d4bed8bdda7a","toSide":"left"},
+		{"id":"afab361550f03aae","fromNode":"aab4c0accfefac16","fromSide":"right","toNode":"53fb50b5870969e9","toSide":"left"}
+	]
+}

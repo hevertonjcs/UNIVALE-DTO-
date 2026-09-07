@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788821343517-sgmi7kqk5",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788821343583-kq3wgtd",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788821343515-irdgdgm",
+      "timestamp": 1788821343515,
+      "rawDisplayText": "crie uma nova nota agora com a skill organizatexto e essa nova nota vai ser tudo daqui organizado para estudo. ok  nao precisa incluir fonte, nao precisa incluir coisas do tipo quero o conteudo de facil entendimento e leitura",
+      "canonicalText": "crie uma nova nota agora com a skill organizatexto e essa nova nota vai ser tudo daqui organizado para estudo. ok  nao precisa incluir fonte, nao precisa incluir coisas do tipo quero o conteudo de facil entendimento e leitura",
+      "context": {
+        "currentNote": {
+          "path": "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/CONSTITUCIONAL AULAS.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "7f4363f02772db88ef03026a41785b0d1b8387532962a5504ddc30cbd3743025",
+      "providerUserMessageId": "01a07e0f-9ef2-7ee0-8fb6-3b40659d328b",
+      "providerAssistantMessageId": "msg_0a3fd2e86e033981016a9f3fe474b487d2a803c7e917d3a657"
+    }
+  ]
+}

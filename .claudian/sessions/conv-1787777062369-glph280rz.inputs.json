@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787777062369-glph280rz",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787777062431-7lawa25",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787777062367-kcpevpf",
+      "timestamp": 1787777062367,
+      "rawDisplayText": "USE A SKILL ORGANIZAR TEXTO PARA REFINAR ESE TEXTO E ORGANIZAR, E TAMBEM MELHORA A ESTRUTURA POR COMPLETO PARA MELHOR ENTENDIMENTO, SEM RETIRAR CONTEUDO, POIS VAI CAIR NDA PROVA, E SE EM ALGUM MOMENTO EU PEDI PARA VC FAZER ALGO, VC FAZ.",
+      "canonicalText": "USE A SKILL ORGANIZAR TEXTO PARA REFINAR ESE TEXTO E ORGANIZAR, E TAMBEM MELHORA A ESTRUTURA POR COMPLETO PARA MELHOR ENTENDIMENTO, SEM RETIRAR CONTEUDO, POIS VAI CAIR NDA PROVA, E SE EM ALGUM MOMENTO EU PEDI PARA VC FAZER ALGO, VC FAZ.",
+      "context": {
+        "currentNote": {
+          "path": "AULAS/TEORIA DO DIREITO/Rascunhos/aula 4 24 08 26.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "6266e5eff2274347a2396851034e314b90c445f535530230d80b1707ba9d81e5",
+      "providerUserMessageId": "01a03fd1-199a-7be1-bec6-ec3dd22f3e6a",
+      "providerAssistantMessageId": "msg_0215fc0aaeed0e6e016a8f5066ff7087d29a1b716b071fa8cf"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787777213439-6b0ut9s",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787777213436-cqepyv7",
+      "timestamp": 1787777213436,
+      "rawDisplayText": "DESFAZ QUERO MEU ANTIGO",
+      "canonicalText": "DESFAZ QUERO MEU ANTIGO",
+      "images": [],
+      "contentDigest": "67546b57edbe85b32b51e79b305f0169d4e61072f6e7b30de056513a49b1bce4",
+      "providerUserMessageId": "01a03fd3-6423-72d0-9ebc-cf67cb3c55fb",
+      "providerAssistantMessageId": "msg_0215fc0aaeed0e6e016a8f50d606e887d2a73b2b5fe353036b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787777287855-n9yusms",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787777287852-9hnop72",
+      "timestamp": 1787777287852,
+      "rawDisplayText": "OK AGORA FAZ  USE A SKILL ORGANIZAR TEXTO PARA REFINAR ESE TEXTO E ORGANIZAR, E TAMBEM MELHORA A ESTRUTURA POR COMPLETO PARA MELHOR ENTENDIMENTO, SEM RETIRAR CONTEUDO, POIS VAI CAIR NDA PROVA, E SE EM ALGUM MOMENTO EU PEDI PARA VC FAZER ALGO, VC FAZ. E COLOQUE EM UMA NOTA NOVA",
+      "canonicalText": "OK AGORA FAZ  USE A SKILL ORGANIZAR TEXTO PARA REFINAR ESE TEXTO E ORGANIZAR, E TAMBEM MELHORA A ESTRUTURA POR COMPLETO PARA MELHOR ENTENDIMENTO, SEM RETIRAR CONTEUDO, POIS VAI CAIR NDA PROVA, E SE EM ALGUM MOMENTO EU PEDI PARA VC FAZER ALGO, VC FAZ. E COLOQUE EM UMA NOTA NOVA",
+      "images": [],
+      "contentDigest": "456366ea906fb1cc231c0c82c453ad4af4202ee88fee82c8c53e807b5edfc9e2",
+      "providerUserMessageId": "01a03fd4-86d5-7421-9e29-60091710271e",
+      "providerAssistantMessageId": "msg_0215fc0aaeed0e6e016a8f51353ff487d2ba5268c5151de131"
+    }
+  ]
+}

@@ -4,8 +4,17 @@
       {
         "tabId": "tab-1785866475039-xi7lwlc",
         "conversationId": "conv-1785867253730-bxipl53hh"
+      },
+      {
+        "tabId": "tab-1787777005199-ruubovb",
+        "conversationId": "conv-1787777062369-glph280rz"
+      },
+      {
+        "draftModel": "gpt-5.6-terra",
+        "tabId": "tab-1788402722819-za2tzfh",
+        "conversationId": "conv-1788821343517-sgmi7kqk5"
       }
     ],
-    "activeTabId": "tab-1785866475039-xi7lwlc"
+    "activeTabId": "tab-1788402722819-za2tzfh"
   }
 }

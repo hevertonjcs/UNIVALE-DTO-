@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"aacee78baa731280","x":-380,"y":-124,"width":280,"height":60,"type":"text","text":"PRESCRIÇÃO (ART 109 INC IV DO CP)"},
+		{"id":"15bf16400d2b2aa9","x":9,"y":-182,"width":291,"height":60,"type":"text","text":"PUNITIVA (PERDA DO DIREITO A PRETENÇÃO DE PUNIR)"},
+		{"id":"741a928de735d2a4","x":9,"y":-94,"width":291,"height":60,"type":"text","text":"EXECUTORIA(PERDA DO DIREITO  A PRETENÇÃO EXECUTÓRIA)"},
+		{"id":"301837b169d2d85a","x":9,"y":-4,"width":250,"height":84,"type":"text","text":"Perda do direito de representação para queixa do crime pela vitima"},
+		{"id":"adaa137a476c9d16","x":-274,"y":-64,"width":50,"height":60,"type":"text","text":"X"},
+		{"id":"bf78521b3095b004","x":-336,"y":-4,"width":174,"height":60,"type":"text","text":"DECADENCIA"}
+	],
+	"edges":[
+		{"id":"cacf2c0c094544b4","fromNode":"aacee78baa731280","fromSide":"right","toNode":"15bf16400d2b2aa9","toSide":"left"},
+		{"id":"34c298ab1df37006","fromNode":"aacee78baa731280","fromSide":"right","toNode":"741a928de735d2a4","toSide":"left"},
+		{"id":"bbe83c42fd7e17f3","fromNode":"bf78521b3095b004","fromSide":"right","toNode":"301837b169d2d85a","toSide":"left"}
+	]
+}

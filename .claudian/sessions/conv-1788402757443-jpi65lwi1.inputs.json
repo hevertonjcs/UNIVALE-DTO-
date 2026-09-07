@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788402757443-jpi65lwi1",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788402757511-gbapv7z",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788402757440-uc9a1u9",
+      "timestamp": 1788402757440,
+      "rawDisplayText": "Vamos usar aquela skill que criei agora aqui, para fazer uma melhoria e refinar o texto, e junto disso, quero que apensa refine e organize, pois EXATAMENTE TUDO QUE ANOTEI AQUI É IMPORTANTE",
+      "canonicalText": "Vamos usar aquela skill que criei agora aqui, para fazer uma melhoria e refinar o texto, e junto disso, quero que apensa refine e organize, pois EXATAMENTE TUDO QUE ANOTEI AQUI É IMPORTANTE",
+      "context": {
+        "currentNote": {
+          "path": "AULAS/LINGUAGEM JURÍDICA/Rascunhos/QUESTOOES INCORRETAS DA PROVA ESCRITA..md"
+        }
+      },
+      "images": [],
+      "contentDigest": "aa1e3d4411030973e793632fe11cbba1aa64f86b22419c588237e181ab90e4b3",
+      "providerUserMessageId": "01a0651c-75b5-7bc2-8ddd-4178f1ad8aa7",
+      "providerAssistantMessageId": "msg_053242c41d4a6982016a98dc87b9a887d2954b376c6d96de97"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "conv-1788402757443-jpi65lwi1",
+  "providerId": "codex",
+  "title": "Refinar e organizar anotações importantes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788402757449,
+  "updatedAt": 1788821284868,
+  "lastResponseAt": 1788402850081,
+  "sessionId": "01a0651c-7191-74e1-8157-6c3a77503708",
+  "selectedModel": "gpt-5.6-terra",
+  "providerState": {
+    "threadId": "01a0651c-7191-74e1-8157-6c3a77503708",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\hever\\.codex\\sessions\\2026\\09\\02\\rollout-2026-09-02T23-32-38-01a0651c-7191-74e1-8157-6c3a77503708.jsonl",
+    "transcriptRootPath": "C:\\Users\\hever\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "usage": {
+    "inputTokens": 32025,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30464,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 32025,
+    "percentage": 12,
+    "model": "gpt-5.6-terra"
+  }
+}

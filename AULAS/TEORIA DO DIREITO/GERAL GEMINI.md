@@ -327,10 +327,10 @@ O Direito Positivo assenta-se sobre dois princípios supremos que sustentam os d
 - **WEBER, Max.** Análise da Burocracia e dos tipos estatais de dominação racional-legal.
     
 
-## Exercícios e Questões de Aplicação Prática
+## Exercícios e Possiveis Questões de Aplicação Prática
 
-As questões a seguir consolidam a matéria ministrada e reproduzem a estrutura das avaliações formais da disciplina:
-
+As questões a seguir consolidam a matéria ministrada e reproduzem a estrutura das avaliações formais da disciplina, Podendo cair na avaliação que ocorrerá no dia 14/09:
+Obs: Questão foi citada pelo professor como uma possivel questão de prova, e aqui foi abordada novamente.
 ### Questão 1
 
 **A relação entre Direito e sociedade implica uma adaptação que possui dois sentidos. Explique essa dinâmica bidirecional.**

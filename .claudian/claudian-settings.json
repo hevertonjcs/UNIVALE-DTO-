@@ -47,6 +47,51 @@
       "customModels": "",
       "discoveredModels": [
         {
+          "model": "gpt-5.6-sol",
+          "displayName": "GPT-5.6-Sol",
+          "description": "Reliable agentic workhorse for everyday tasks.",
+          "supportedReasoningEfforts": [
+            {
+              "value": "low",
+              "description": "Fast responses with lighter reasoning"
+            },
+            {
+              "value": "medium",
+              "description": "Balances speed and reasoning depth for everyday tasks"
+            },
+            {
+              "value": "high",
+              "description": "Greater reasoning depth for complex problems"
+            },
+            {
+              "value": "xhigh",
+              "description": "Extra high reasoning depth for complex problems"
+            },
+            {
+              "value": "max",
+              "description": "Maximum reasoning depth for the hardest problems"
+            },
+            {
+              "value": "ultra",
+              "description": "Maximum reasoning with automatic task delegation"
+            }
+          ],
+          "defaultReasoningEffort": "low",
+          "serviceTiers": [
+            {
+              "id": "priority",
+              "name": "Fast",
+              "description": "1.5x speed, increased usage"
+            }
+          ],
+          "defaultServiceTier": null,
+          "inputModalities": [
+            "text",
+            "image"
+          ],
+          "isDefault": true
+        },
+        {
           "model": "gpt-5.6-terra",
           "displayName": "GPT-5.6-Terra",
           "description": "Balanced agentic coding model for everyday work.",
@@ -77,13 +122,19 @@
             }
           ],
           "defaultReasoningEffort": "medium",
-          "serviceTiers": [],
+          "serviceTiers": [
+            {
+              "id": "priority",
+              "name": "Fast",
+              "description": "1.5x speed, increased usage"
+            }
+          ],
           "defaultServiceTier": null,
           "inputModalities": [
             "text",
             "image"
           ],
-          "isDefault": true
+          "isDefault": false
         },
         {
           "model": "gpt-5.6-luna",
@@ -112,7 +163,13 @@
             }
           ],
           "defaultReasoningEffort": "medium",
-          "serviceTiers": [],
+          "serviceTiers": [
+            {
+              "id": "priority",
+              "name": "Fast",
+              "description": "1.5x speed, increased usage"
+            }
+          ],
           "defaultServiceTier": null,
           "inputModalities": [
             "text",
@@ -123,7 +180,7 @@
         {
           "model": "gpt-5.5",
           "displayName": "GPT-5.5",
-          "description": "Frontier model for complex coding, research, and real-world work.",
+          "description": "Proven previous-generation model for coding and general work.",
           "supportedReasoningEfforts": [
             {
               "value": "low",
@@ -143,7 +200,13 @@
             }
           ],
           "defaultReasoningEffort": "medium",
-          "serviceTiers": [],
+          "serviceTiers": [
+            {
+              "id": "priority",
+              "name": "Fast",
+              "description": "1.5x speed, increased usage"
+            }
+          ],
           "defaultServiceTier": null,
           "inputModalities": [
             "text",
@@ -189,7 +252,7 @@
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "catalogTimestamp": 1787684510329,
+      "catalogTimestamp": 1788821270784,
       "catalogFingerprint": "2:cf352085454864c54f207ad29dfba6bef3d1c662616de13850183c0a43c4c6d5",
       "installationMethodsByHost": {},
       "wslDistroOverridesByHost": {}

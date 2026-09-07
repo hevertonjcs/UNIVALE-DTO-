@@ -1,0 +1,28 @@
+{
+  "id": "conv-1787777062369-glph280rz",
+  "providerId": "codex",
+  "title": "Organizar texto para prova sem remover conteúdo",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787777062374,
+  "updatedAt": 1787777337358,
+  "lastResponseAt": 1787777337358,
+  "sessionId": "01a03fd1-185f-7723-a500-e6ae2a44a201",
+  "selectedModel": "gpt-5.6-terra",
+  "providerState": {
+    "threadId": "01a03fd1-185f-7723-a500-e6ae2a44a201",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\hever\\.codex\\sessions\\2026\\08\\26\\rollout-2026-08-26T17-44-23-01a03fd1-185f-7723-a500-e6ae2a44a201.jsonl",
+    "transcriptRootPath": "C:\\Users\\hever\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "usage": {
+    "inputTokens": 33027,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32512,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 33027,
+    "percentage": 13,
+    "model": "gpt-5.6-terra"
+  }
+}
