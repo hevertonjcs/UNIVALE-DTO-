@@ -1,0 +1,29 @@
+{
+  "id": "conv-1789061303546-a5hvo3k2b",
+  "providerId": "codex",
+  "title": "Organizar texto para leitura no GitHub",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789061303564,
+  "updatedAt": 1789061504465,
+  "lastResponseAt": 1789061504465,
+  "sessionId": "01a08c5d-0f21-7371-922a-c339261cce09",
+  "selectedModel": "gpt-5.6-terra",
+  "providerState": {
+    "threadId": "01a08c5d-0f21-7371-922a-c339261cce09",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\hever\\.codex\\sessions\\2026\\09\\10\\rollout-2026-09-10T14-28-24-01a08c5d-0f21-7371-922a-c339261cce09.jsonl",
+    "transcriptRootPath": "C:\\Users\\hever\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "currentNote": "AULAS/DIREITO PENAL - Teoria do crime/PENAL TODO CONTEUDO DO SLIDE E PASSADOS ESTUDO.md",
+  "usage": {
+    "inputTokens": 47168,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 45824,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 47168,
+    "percentage": 18,
+    "model": "gpt-5.6-terra"
+  }
+}

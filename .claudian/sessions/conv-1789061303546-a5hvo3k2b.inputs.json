@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789061303546-a5hvo3k2b",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789061303611-4ogm506",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789061303543-jp3p5gi",
+      "timestamp": 1789061303543,
+      "rawDisplayText": "Eu troxe esse texto do gpt mas vamos melhorar a oganização dele, para melhor leitura tanto aqui, quanto para quem for ler diretament no github ok.  NÃO RETIRE NADA NENHUM CONTEUDO OU PALAVRA NEM RESUMA NADA, SOMENTE MELHORES TIRULOS E ORGANIZACAO",
+      "canonicalText": "Eu troxe esse texto do gpt mas vamos melhorar a oganização dele, para melhor leitura tanto aqui, quanto para quem for ler diretament no github ok.  NÃO RETIRE NADA NENHUM CONTEUDO OU PALAVRA NEM RESUMA NADA, SOMENTE MELHORES TIRULOS E ORGANIZACAO",
+      "context": {
+        "currentNote": {
+          "path": "AULAS/DIREITO PENAL - Teoria do crime/PENAL TODO CONTEUDO DO SLIDE E PASSADOS ESTUDO.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "ba115495c96bf565a6ee8c171249af9f19ee1d8a583798d733036d309c48238b",
+      "providerUserMessageId": "01a08c5d-1c03-7f30-9a1a-47117b343ff9",
+      "providerAssistantMessageId": "msg_07c63f2aad0a1719016aa2e96a88a087d2973c4dc378b405bb"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"08127bab7e61a341","x":-231,"y":-116,"width":250,"height":60,"color":"4","type":"text","text":"EMISSOR"},
+		{"id":"902a80b500905bce","x":200,"y":-116,"width":250,"height":60,"color":"2","type":"text","text":"MENSAGEM"},
+		{"id":"bf14d7bf9a23fb84","x":680,"y":-116,"width":250,"height":60,"color":"4","type":"text","text":"RECEPTOR"},
+		{"id":"45a4ba7e2e240411","x":200,"y":-176,"width":250,"height":60,"type":"text","text":"Canal: Oratória\nCódigo: Língua Brasileira"},
+		{"id":"1c3b2a1097f754a7","x":160,"y":-56,"width":320,"height":76,"type":"text","text":"Referente:  O Assunto/ Conteudo\nRuido: Cansaço, Barulho, Interferencia."},
+		{"id":"e559f1d6bebeb23f","x":180,"y":100,"width":250,"height":50,"color":"4","type":"text","text":"FEEDBACK"},
+		{"id":"1e48a8c6cd0dd2f3","x":-242,"y":400,"width":273,"height":70,"type":"text","text":"Em uma conversa o Receptor e o Emissor pode ser altertardo."},
+		{"id":"b9038acae870d11f","x":-242,"y":300,"width":273,"height":80,"type":"text","text":"Criado para sistemas de comunicação mas tambem vale para a comunicação humana."},
+		{"id":"441e3423ea05c0dc","x":-242,"y":220,"width":273,"height":60,"type":"text","text":"Em uma oratória você tem o feedback. "}
+	],
+	"edges":[
+		{"id":"b1d5eeb91fd4616b","fromNode":"08127bab7e61a341","fromSide":"right","toNode":"902a80b500905bce","toSide":"left","color":"4"},
+		{"id":"5855c9f9256585f8","fromNode":"902a80b500905bce","fromSide":"right","toNode":"bf14d7bf9a23fb84","toSide":"left","color":"4"},
+		{"id":"3226a8b5aba1be8a","fromNode":"e559f1d6bebeb23f","fromSide":"left","toNode":"08127bab7e61a341","toSide":"bottom","color":"4"},
+		{"id":"743b47191ffa8cbc","fromNode":"bf14d7bf9a23fb84","fromSide":"bottom","toNode":"e559f1d6bebeb23f","toSide":"right","color":"4"}
+	]
+}
