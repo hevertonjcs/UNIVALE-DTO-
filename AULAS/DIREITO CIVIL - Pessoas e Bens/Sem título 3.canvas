@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"95f874fce7ef36d0","type":"text","text":"RELACAO\nJURIDICA\nCIVIL","x":-481,"y":-238,"width":121,"height":118},
+		{"id":"d6a7f4b8b8470aef","type":"text","text":"De Direito Real","x":-271,"y":-400,"width":171,"height":60},
+		{"id":"9fb38bb6b3496ef9","type":"text","text":"De Direito *Obrigacional* Ou Pessoal","x":-301,"y":-80,"width":231,"height":60},
+		{"id":"5772314044f19fcb","type":"text","text":"FATO (Art. 1225 cc)\nBEM \nPESSOAS","x":20,"y":-500,"width":200,"height":100},
+		{"id":"2307e78e186f33d4","type":"text","text":"FATO  (Art. 186 cc)\nOBJETO(Art. 927 cc)\nSUJEITOS","x":54,"y":-50,"width":186,"height":110},
+		{"id":"46132c45d0f921dd","type":"text","text":"IMEDIATO: Fazer o pagamento ou contra prestação","x":315,"y":-118,"width":190,"height":98},
+		{"id":"4941e0f34610791a","type":"text","text":"MEDIATO: A entrega do bem negociago e acertado em imadiata.","x":315,"y":30,"width":225,"height":90},
+		{"id":"da1d4e0172f89597","type":"text","text":"Punivel Erga Omnes (Grave essa expresão)","x":315,"y":-660,"width":210,"height":60},
+		{"id":"c4d1c2a63096ac96","type":"text","text":"Oque é uma obrigação juridica (Pesquise sobre - Prestação)","x":-760,"y":75,"width":219,"height":94},
+		{"id":"600674e52accf258","type":"text","text":"SE NÃO TIVER RELAÇÃO JURIDICA ENTÃO NÃO CABE AO DIREITO CIVIL","x":-760,"y":180,"width":313,"height":93}
+	],
+	"edges":[
+		{"id":"c87854ac20907d44","fromNode":"95f874fce7ef36d0","fromSide":"right","toNode":"d6a7f4b8b8470aef","toSide":"left"},
+		{"id":"519d58761019d0a0","fromNode":"95f874fce7ef36d0","fromSide":"right","toNode":"9fb38bb6b3496ef9","toSide":"left"},
+		{"id":"2bc4d5946fb8ea43","fromNode":"d6a7f4b8b8470aef","fromSide":"right","toNode":"5772314044f19fcb","toSide":"left"},
+		{"id":"877445c1d5e38624","fromNode":"9fb38bb6b3496ef9","fromSide":"right","toNode":"2307e78e186f33d4","toSide":"left"},
+		{"id":"64c2fb440941d0f3","fromNode":"2307e78e186f33d4","fromSide":"right","toNode":"46132c45d0f921dd","toSide":"left"},
+		{"id":"57a7c3530d49d365","fromNode":"2307e78e186f33d4","fromSide":"right","toNode":"4941e0f34610791a","toSide":"left"}
+	]
+}
