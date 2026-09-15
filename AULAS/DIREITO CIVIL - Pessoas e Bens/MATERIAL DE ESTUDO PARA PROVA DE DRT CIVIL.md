@@ -241,6 +241,9 @@ Temos:
 **Fato propulsor:** contrato de compra e venda.  
 **Proteção jurídica:** se alguém não cumprir, o ordenamento permite exigir judicialmente o direito.
 
+<img width="1213" height="892" alt="image" src="https://github.com/user-attachments/assets/249656fa-fb9f-4708-83c9-b31b61e6c922" />
+
+
 ---
 
 # 11. Sujeito ativo e sujeito passivo
