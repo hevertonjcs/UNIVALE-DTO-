@@ -21,6 +21,9 @@ Isso não é exatamente a definição da disciplina **Direito Civil**.
 
 Essa diferença tem cara de questão de prova.
 
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/bc51b6ee-3551-4fc9-a9b3-c03044e40ce7" />
+
+
 ---
 
 # 3. Direito Público × Direito Privado
@@ -241,6 +244,9 @@ Temos:
 **Fato propulsor:** contrato de compra e venda.  
 **Proteção jurídica:** se alguém não cumprir, o ordenamento permite exigir judicialmente o direito.
 
+<img width="1213" height="892" alt="image" src="https://github.com/user-attachments/assets/249656fa-fb9f-4708-83c9-b31b61e6c922" />
+
+
 ---
 
 # 11. Sujeito ativo e sujeito passivo
@@ -444,6 +450,8 @@ Seu professor destacou isso corretamente.
 
 Eu estudaria muito bem **arts. 1º a 7º**.
 
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/f89b852c-3fa9-4134-a223-648fa5e16850" />
+
 ---
 
 # 18. LINDB — Art. 1º: vigência
@@ -626,6 +634,9 @@ A norma especial prevalece sobre a norma geral no campo específico que discipli
 
 Aqui eu prestaria muita atenção porque o professor aparentemente começou a percorrer os artigos **1º a 10**.
 
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/41a337c4-aa9b-47dd-bd36-371136bb8bc2" />
+
+
 ## 26. Art. 1º — capacidade de direito
 
 Texto:
@@ -682,6 +693,8 @@ Uma criança pode:
 **ser proprietária de um imóvel? Sim.**
 
 **vender sozinha o imóvel? Não.**
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/825bb178-3e18-4d57-bd35-f725b90e06b2" />
 
 ---
 
