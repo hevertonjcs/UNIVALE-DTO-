@@ -6,11 +6,14 @@
         "conversationId": "conv-1785867253730-bxipl53hh"
       },
       {
-        "draftModel": "gpt-5.6-terra",
         "tabId": "tab-1789061244061-tthn8lj",
         "conversationId": "conv-1789061303546-a5hvo3k2b"
+      },
+      {
+        "tabId": "tab-1789518583020-ta1283g",
+        "conversationId": "conv-1789518600549-5cia0fm8x"
       }
     ],
-    "activeTabId": "tab-1789061244061-tthn8lj"
+    "activeTabId": "tab-1789518583020-ta1283g"
   }
 }

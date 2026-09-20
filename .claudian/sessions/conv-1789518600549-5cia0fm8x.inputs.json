@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789518600549-5cia0fm8x",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789518600618-dftf3ip",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789518600546-s6bq2k2",
+      "timestamp": 1789518600546,
+      "rawDisplayText": "Bora aperfeicoar  esse texto em uma nova nota",
+      "canonicalText": "Bora aperfeicoar  esse texto em uma nova nota",
+      "context": {
+        "currentNote": {
+          "path": "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/DIREITO CONSTITUCIONAL.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "627d06eb6465b1e8a24cc59d18a3d5040acb6f647e1a8dd69e1364857c6c433b",
+      "providerUserMessageId": "01a0a79e-dfd5-74c0-952d-5e25b2c88831",
+      "providerAssistantMessageId": "msg_0b18639f223f2254016aa9f2b3545487d2b94aeb46ecbeba76"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789522618100-uenfpyd",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789522618093-yndw6fb",
+      "timestamp": 1789522618093,
+      "rawDisplayText": "mantenha o conteudo, apenas melhore a esturua nao tire nada nem resuma",
+      "canonicalText": "mantenha o conteudo, apenas melhore a esturua nao tire nada nem resuma",
+      "images": [],
+      "contentDigest": "687564fee47c560312e520ac54e92fc02956a048200ddd206ec90abd20244dd9",
+      "providerUserMessageId": "01a0a7dc-2727-7b40-ba18-8cf438831cb3",
+      "providerAssistantMessageId": "msg_0b18639f223f2254016aa9f2fbae1887d2bc554e723e886371"
+    }
+  ]
+}

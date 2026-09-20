@@ -1,0 +1,29 @@
+{
+  "id": "conv-1789518600549-5cia0fm8x",
+  "providerId": "codex",
+  "title": "Aperfeiçoar texto em nova nota",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789518600556,
+  "updatedAt": 1789522691387,
+  "lastResponseAt": 1789522691387,
+  "sessionId": "01a0a79e-dbc0-7bd3-84cc-8006bbd876d9",
+  "selectedModel": "gpt-5.6-terra",
+  "providerState": {
+    "threadId": "01a0a79e-dbc0-7bd3-84cc-8006bbd876d9",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\hever\\.codex\\sessions\\2026\\09\\15\\rollout-2026-09-15T21-30-01-01a0a79e-dbc0-7bd3-84cc-8006bbd876d9.jsonl",
+    "transcriptRootPath": "C:\\Users\\hever\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "currentNote": "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/DIREITO CONSTITUCIONAL.md",
+  "usage": {
+    "inputTokens": 32535,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31488,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 32535,
+    "percentage": 13,
+    "model": "gpt-5.6-terra"
+  }
+}
