@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"89b55612851c6598","type":"text","text":"PEDIR","x":-360,"y":-40,"width":110,"height":60},
+		{"id":"ae51e6e998d6ae3a","type":"text","text":"SUJEITO(AGENTE)","x":-120,"y":-40,"width":185,"height":60},
+		{"id":"2669e039d5ee49d7","type":"text","text":"AUTOR","x":-87,"y":110,"width":120,"height":60},
+		{"id":"7d2c4d38f6dc0cb1","type":"text","text":"PETIÇÃO","x":-340,"y":-160,"width":121,"height":55},
+		{"id":"c139e1736c76b00e","type":"text","text":"OBJETO","x":198,"y":-40,"width":125,"height":60},
+		{"id":"4133d0ebb90b34db","type":"text","text":"PEDIDO\n","x":198,"y":80,"width":125,"height":60},
+		{"id":"dc3ce465313c0648","type":"text","text":"BASE LEGAL(SUSTENTAÇÃO LEGAL DO PEDIDO)","x":160,"y":200,"width":274,"height":87},
+		{"id":"386083e585b03017","type":"text","text":"PASSIVO","x":500,"y":-40,"width":120,"height":60},
+		{"id":"33d7bc37bc4967ae","type":"text","text":"JUSTIÇA(FORO)","x":560,"y":140,"width":163,"height":64},
+		{"id":"14425958cc08ed30","type":"text","text":"Fato(causa)","x":-392,"y":360,"width":142,"height":65},
+		{"id":"292a978df821997d","x":-560,"y":620,"width":140,"height":100,"type":"text","text":"Direito (Argumentos e Provas)"},
+		{"id":"2038d94c2be4152b","type":"text","text":"Pedido(Aquilo que eu quero)","x":-219,"y":619,"width":159,"height":101},
+		{"id":"4dac09b3fbe2b722","x":-369,"y":1105,"width":250,"height":60,"type":"text","text":"ARGUMENTAR E DISSERTAR"},
+		{"id":"43aabbf8659f4eae","x":78,"y":1294,"width":142,"height":66,"type":"text","text":"DISSERTAR"},
+		{"id":"3a55f76c0d0eecc1","x":24,"y":1481,"width":250,"height":60,"type":"text","text":"DEFENDER UMA TESE(OPINIÃO)"},
+		{"id":"57fd00ad274ffb11","x":-369,"y":1294,"width":158,"height":67,"type":"text","text":"ARGUMENTAR"},
+		{"id":"6c3b4b7bb144f684","x":-415,"y":1488,"width":250,"height":60,"type":"text","text":"CONSTRUÇÃO RACIONAL DA TESE"},
+		{"id":"2b710848a1afe0b5","x":-805,"y":1452,"width":245,"height":133,"type":"text","text":"É UMA ESTRATEGIA PARA DISSERTAR.(UMA FORMA PARA ESTRUTURAR E CHEGAR NA MINHA TESE)"},
+		{"id":"2ae76f9b80a296b0","x":-463,"y":1795,"width":250,"height":60,"type":"text","text":"ARGUMENTO (PREMISSA)"},
+		{"id":"3d520bafd3525dcf","x":-461,"y":1899,"width":250,"height":60,"type":"text","text":"Conclusão"}
+	],
+	"edges":[
+		{"id":"759db47a12024a26","fromNode":"c139e1736c76b00e","fromSide":"bottom","toNode":"4133d0ebb90b34db","toSide":"top"},
+		{"id":"0591293205b8b4ae","fromNode":"4133d0ebb90b34db","fromSide":"bottom","toNode":"dc3ce465313c0648","toSide":"top"},
+		{"id":"ba0e195be02e8b9f","fromNode":"ae51e6e998d6ae3a","fromSide":"bottom","toNode":"2669e039d5ee49d7","toSide":"top"},
+		{"id":"1aab547a81479bbf","fromNode":"89b55612851c6598","fromSide":"right","toNode":"ae51e6e998d6ae3a","toSide":"left"},
+		{"id":"3c732773c8f8f37b","fromNode":"ae51e6e998d6ae3a","fromSide":"right","toNode":"c139e1736c76b00e","toSide":"left"},
+		{"id":"ff9d9d3f0ff2c9ab","fromNode":"c139e1736c76b00e","fromSide":"right","toNode":"386083e585b03017","toSide":"left"},
+		{"id":"58328759f8a5b4ba","fromNode":"386083e585b03017","fromSide":"bottom","toNode":"33d7bc37bc4967ae","toSide":"top"},
+		{"id":"199d186240f57e95","fromNode":"14425958cc08ed30","fromSide":"right","toNode":"2038d94c2be4152b","toSide":"top"},
+		{"id":"91f3696bb3fb6e52","fromNode":"2038d94c2be4152b","fromSide":"bottom","toNode":"292a978df821997d","toSide":"bottom"},
+		{"id":"ee1a38a20cce8a54","fromNode":"292a978df821997d","fromSide":"top","toNode":"14425958cc08ed30","toSide":"left"},
+		{"id":"01e390ac7301506e","fromNode":"43aabbf8659f4eae","fromSide":"bottom","toNode":"3a55f76c0d0eecc1","toSide":"top"},
+		{"id":"4a5c84e52c0a6b05","fromNode":"57fd00ad274ffb11","fromSide":"bottom","toNode":"6c3b4b7bb144f684","toSide":"top"},
+		{"id":"9c29482e65321574","fromNode":"2b710848a1afe0b5","fromSide":"right","toNode":"6c3b4b7bb144f684","toSide":"left"}
+	]
+}

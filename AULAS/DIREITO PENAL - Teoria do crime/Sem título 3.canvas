@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"d716be1f29d4404b","x":-229,"y":-164,"width":250,"height":60,"type":"text","text":"CAUSA (TUDO AQUILO QUE GERA O RESULTLADO)"},
+		{"id":"6fd3a51cff266ffb","x":320,"y":-164,"width":250,"height":60,"type":"text","text":"RESULTADO"},
+		{"id":"b57922c008e292b1","x":21,"y":-360,"width":250,"height":60,"type":"text","text":"NEXO CAUSAL"},
+		{"id":"205cb59e126c5bb1","x":-229,"y":0,"width":250,"height":60,"type":"text","text":"CONDUTA HUMANA"},
+		{"id":"0d4ed467c227edc4","x":146,"y":-60,"width":250,"height":60,"type":"text","text":"AÇÃO"},
+		{"id":"16b51101e8a8c024","x":146,"y":35,"width":250,"height":50,"type":"text","text":"OMISSÃO"},
+		{"id":"f3033c13da7967c0","x":-140,"y":120,"width":250,"height":60,"type":"text","text":"VOLUNTARIA"},
+		{"id":"611930a1dfa50695","x":-140,"y":180,"width":250,"height":60,"type":"text","text":"CONSIENTE"}
+	],
+	"edges":[
+		{"id":"e22b98cc694cc6e8","fromNode":"d716be1f29d4404b","fromSide":"top","toNode":"6fd3a51cff266ffb","toSide":"top"},
+		{"id":"bd1ae383a85a8b40","fromNode":"d716be1f29d4404b","fromSide":"bottom","toNode":"205cb59e126c5bb1","toSide":"top"},
+		{"id":"fa2b068881057919","fromNode":"205cb59e126c5bb1","fromSide":"right","toNode":"0d4ed467c227edc4","toSide":"left"},
+		{"id":"a78c354bce4bcfcc","fromNode":"205cb59e126c5bb1","fromSide":"right","toNode":"16b51101e8a8c024","toSide":"left"},
+		{"id":"1c09e7267cbb4fe6","fromNode":"205cb59e126c5bb1","fromSide":"bottom","toNode":"f3033c13da7967c0","toSide":"left"},
+		{"id":"eaf542eca7f8fb8b","fromNode":"205cb59e126c5bb1","fromSide":"bottom","toNode":"611930a1dfa50695","toSide":"left"}
+	]
+}

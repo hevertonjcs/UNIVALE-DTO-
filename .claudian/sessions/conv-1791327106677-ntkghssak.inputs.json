@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1791327106677-ntkghssak",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791327106734-a4emshb",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1791327106674-aot5iji",
+      "timestamp": 1791327106674,
+      "rawDisplayText": "Corriga os erros de ortografia e oque ta em maiusculo e minusculo sem tirar conteudo do texto",
+      "canonicalText": "Corriga os erros de ortografia e oque ta em maiusculo e minusculo sem tirar conteudo do texto",
+      "context": {
+        "currentNote": {
+          "path": "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/Rascunhos/CONSTITUCIONAL 0610.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "6bbc04aa0deaf1132c1fa1260ab050ab0c648470fb65f66f86961f8d4ffef77b",
+      "providerUserMessageId": "01a1136a-8bb1-78f3-aa09-6b17768a184e",
+      "providerAssistantMessageId": "msg_0c085a3a0c0db62f016ac57bbbfac087d2b7ca07e16f1c8065"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791327198997-ukeyoc3",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1791327198993-062ici6",
+      "timestamp": 1791327198993,
+      "rawDisplayText": "03++",
+      "canonicalText": "03++",
+      "images": [],
+      "contentDigest": "82e3b30a4d9a93ffc1f81d9210af9c9f1150d59f00d2a2eadd1112b1525cd4ad",
+      "providerUserMessageId": "01a1136b-df3a-7711-8577-6f450d0f00b7",
+      "providerAssistantMessageId": "msg_0c085a3a0c0db62f016ac57bc19adc87d2b6b2a5a57dd4ee8d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791329786153-rjjo77w",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1791329786149-6zo5q84",
+      "timestamp": 1791329786149,
+      "rawDisplayText": "Agora vamos fazer oque fez antes com o item 4 para baixo.",
+      "canonicalText": "Agora vamos fazer oque fez antes com o item 4 para baixo.",
+      "images": [],
+      "contentDigest": "33ce863148dfb6fec230fd474a4043476a41622d0c33c731837d7e8877837579",
+      "providerUserMessageId": "01a11393-5950-7c20-91f1-0cc8806ca11a",
+      "providerAssistantMessageId": "msg_0c085a3a0c0db62f016ac585f751fc87d2b5970a00c3e6be4f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1791334452095-gjd9boi",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1791334452059-idaipmd",
+      "timestamp": 1791334452059,
+      "rawDisplayText": "AGORA VAMOS ARRUMAR DE **Dos principios fundamentais - ARTS 1*/4*, CF PARA BAIXO",
+      "canonicalText": "AGORA VAMOS ARRUMAR DE **Dos principios fundamentais - ARTS 1*/4*, CF PARA BAIXO",
+      "context": {
+        "editorSelection": {
+          "notePath": "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/Rascunhos/CONSTITUCIONAL 0610.md",
+          "mode": "selection",
+          "selectedText": "**Dos principios fundamentais - ARTS 1*/4*, CF",
+          "lineCount": 1,
+          "startLine": 20
+        }
+      },
+      "images": [],
+      "contentDigest": "408ccbe670e788f5128ad28e40f814a4b715babed7d674bcd18aa58c089abf29",
+      "providerUserMessageId": "01a113da-8dec-7db3-bcbb-a991590c0e81",
+      "providerAssistantMessageId": "01a113da-8dec-7db3-bcbb-a991590c0e81"
+    }
+  ]
+}

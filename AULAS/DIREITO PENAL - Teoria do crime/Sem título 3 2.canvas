@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"77c2e12d16d66398","type":"text","text":"CULPA","x":220,"y":-82,"width":250,"height":60},
+		{"id":"3c73780086b22a74","type":"text","text":"EVENTUAL (desvalor a vida) (não desejo mas assumi o risco do resultado)","x":-127,"y":134,"width":250,"height":85},
+		{"id":"ad36967398599d0c","type":"text","text":"DIRETO(quero e desejo o resultado de morte)","x":-127,"y":28,"width":250,"height":60},
+		{"id":"a1d1925450701c7f","type":"text","text":"DOLO","x":-127,"y":-82,"width":250,"height":50},
+		{"id":"3f643bd2604216c5","type":"text","text":"CRIMES QUE VÃO A JURI","x":-660,"y":50,"width":240,"height":60},
+		{"id":"fc83d99a16df1ae0","type":"text","text":"HOMICIDO, ABORTO, INFANTICIDIO, FEMINICIDIO, AUXILIO INDUZIMENTO OU INSTIGAÇÃO AO OMICIDIO","x":-680,"y":170,"width":320,"height":138},
+		{"id":"c0c422cd3b16ca5c","type":"text","text":"NEGLIGENCIA((esta ligado á não fazer, deixei a criança cozinha no banheiro e ela escorregou)","x":220,"y":209,"width":250,"height":111},
+		{"id":"749566274e5e5c7e","type":"text","text":"IMPRUDENCIA: Esta ligado á fazer algo,  agriu de forma que impoe o risto de acontecer algo, ex andar a cima de 120km na via public","x":220,"y":28,"width":250,"height":142},
+		{"id":"17bffe15ca9c3c81","type":"text","text":"IMPERICIA(esta ligada á falta de aptidão técnica)","x":220,"y":360,"width":250,"height":66},
+		{"id":"a5dac4af2a38e959","type":"text","text":"CRIMES QUE SÃO JULGADOS PELO JUIZ","x":-660,"y":-72,"width":232,"height":50},
+		{"id":"0db6b4d5a9835039","type":"text","text":"CULPA CONSIENTE: QUANDO A PESSOA PODE ERRAR MAS ELA SABE QUE NUNCA VAI ERRAR NAQULO","x":580,"y":-172,"width":292,"height":140},
+		{"id":"fa7a34daf9682051","type":"text","text":"CULPA INCONSCIENTE: SENSO COMUM E HOMEM MEDIO, O AGENTE NÃO PREVIU O RESULTADO, MAS QUALQUER OUTRA PESSOA PREVIA.","x":580,"y":11,"width":278,"height":159},
+		{"id":"a0234308b86b8857","x":-334,"y":541,"width":294,"height":119,"type":"text","text":"NÃO CONFUNDA DOLO EVENTUAL E A CULPA CONSIENTE."},
+		{"id":"b8d896b07db642b8","x":524,"y":-319,"width":250,"height":60,"type":"text","text":"FODEU!"},
+		{"id":"ef3d4e237412ffb1","x":-187,"y":300,"width":250,"height":60,"type":"text","text":"FODA-SE"},
+		{"id":"5a5976be325f97e1","x":960,"y":-52,"width":283,"height":93,"type":"text","text":"AMBOS SÃO PREVISIVEIS, MAS NA INCONSCIENTE EU NÃO PREVEJO O RESULTADO.\n\nE NA CONSCIENTE EU PREVEJO O RESULTADO MAS EU ACREDITO QUE "}
+	],
+	"edges":[
+		{"id":"18e8db3deef2e7e4","fromNode":"a1d1925450701c7f","fromSide":"bottom","toNode":"ad36967398599d0c","toSide":"top"},
+		{"id":"84671e2192191223","fromNode":"ad36967398599d0c","fromSide":"bottom","toNode":"3c73780086b22a74","toSide":"top"},
+		{"id":"b6fb274a4b70e5cb","fromNode":"77c2e12d16d66398","fromSide":"bottom","toNode":"749566274e5e5c7e","toSide":"top"},
+		{"id":"0579e60e57c54525","fromNode":"749566274e5e5c7e","fromSide":"bottom","toNode":"c0c422cd3b16ca5c","toSide":"top"},
+		{"id":"5211ee25f338561a","fromNode":"c0c422cd3b16ca5c","fromSide":"bottom","toNode":"17bffe15ca9c3c81","toSide":"top"},
+		{"id":"6629696c6b4505d1","fromNode":"3f643bd2604216c5","fromSide":"right","toNode":"a1d1925450701c7f","toSide":"left"},
+		{"id":"0118093aeed264ca","fromNode":"a5dac4af2a38e959","fromSide":"right","toNode":"77c2e12d16d66398","toSide":"top"},
+		{"id":"79f143d627aa2b0a","fromNode":"3f643bd2604216c5","fromSide":"bottom","toNode":"fc83d99a16df1ae0","toSide":"top"},
+		{"id":"5962b7b9b30c44a0","fromNode":"fc83d99a16df1ae0","fromSide":"right","toNode":"a1d1925450701c7f","toSide":"left"},
+		{"id":"8062fa191df5ea8b","fromNode":"77c2e12d16d66398","fromSide":"right","toNode":"0db6b4d5a9835039","toSide":"left"},
+		{"id":"c2a954f121c0ac35","fromNode":"77c2e12d16d66398","fromSide":"right","toNode":"fa7a34daf9682051","toSide":"left"},
+		{"id":"ca762e82d97b9bbe","fromNode":"0db6b4d5a9835039","fromSide":"top","toNode":"b8d896b07db642b8","toSide":"bottom"},
+		{"id":"fbb5521b42c1abe0","fromNode":"3c73780086b22a74","fromSide":"bottom","toNode":"ef3d4e237412ffb1","toSide":"top"},
+		{"id":"f10167383990b020","fromNode":"5a5976be325f97e1","fromSide":"left","toNode":"0db6b4d5a9835039","toSide":"right"},
+		{"id":"069080015172d46b","fromNode":"5a5976be325f97e1","fromSide":"left","toNode":"fa7a34daf9682051","toSide":"right"}
+	]
+}

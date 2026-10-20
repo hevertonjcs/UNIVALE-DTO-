@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"45e4230ef8007015","type":"text","text":"SEMANTICA","x":-440,"y":-240,"width":140,"height":60},
+		{"id":"c245423912000407","type":"text","text":"SIGNIFICADO","x":-340,"y":-80,"width":160,"height":60},
+		{"id":"eaad4cf07f8a22f6","type":"text","text":"POLISSEMIA","x":-614,"y":120,"width":134,"height":60},
+		{"id":"549cd18581fea334","type":"text","text":"SINONIMIA","x":-240,"y":120,"width":140,"height":60},
+		{"id":"ca159c7cec8a2911","type":"text","text":"SEMIÓTICA","x":120,"y":-300,"width":250,"height":60},
+		{"id":"3714b82fcc3565de","type":"text","text":"SIGNO","x":140,"y":-180,"width":250,"height":60},
+		{"id":"56f4e08a885f6ec3","type":"text","text":"ANTONIMIA","x":242,"y":90,"width":148,"height":60},
+		{"id":"d70dedc24804905f","type":"text","text":"PALAVRAS QUE SÃO DE SENTIDOS OPOSTOS, TANTO PELA PROPRIA PALAVRA SER O OPOSTO (ABRIR E FECHAR) OU TAMBEM POR CONTA DE ALGUM PREFIXO","x":144,"y":244,"width":345,"height":153},
+		{"id":"ad230e601d596b9a","type":"text","text":"PALAVRAS QUE POSSUEM O MESMO SIGNIFICADO OU ATE VARIOS TERMOS QUE TRAZEM A MESMA IDEIA.","x":-297,"y":280,"width":255,"height":137},
+		{"id":"58e4bf7e317240af","x":-679,"y":280,"width":265,"height":146,"type":"text","text":"PALAVRAS QUE POSSUEM DIVERSOS SIGNIFICADOS TANTO NO MEIO JURIDICO QUANTO FORA DO MEIO JURIDICO"}
+	],
+	"edges":[
+		{"id":"86600aad65c89953","fromNode":"c245423912000407","fromSide":"bottom","toNode":"eaad4cf07f8a22f6","toSide":"top"},
+		{"id":"9dda1150a927acc0","fromNode":"c245423912000407","fromSide":"bottom","toNode":"549cd18581fea334","toSide":"top"},
+		{"id":"dcb1c63214e3bfdf","fromNode":"c245423912000407","fromSide":"bottom","toNode":"56f4e08a885f6ec3","toSide":"top"},
+		{"id":"5085c97d41653457","fromNode":"45e4230ef8007015","fromSide":"bottom","toNode":"c245423912000407","toSide":"top"},
+		{"id":"36983c563ad53404","fromNode":"45e4230ef8007015","fromSide":"top","toNode":"ca159c7cec8a2911","toSide":"top"},
+		{"id":"89b913b7d8a0ef38","fromNode":"56f4e08a885f6ec3","fromSide":"bottom","toNode":"d70dedc24804905f","toSide":"top"},
+		{"id":"546ec1408b31fd1f","fromNode":"549cd18581fea334","fromSide":"bottom","toNode":"ad230e601d596b9a","toSide":"top"},
+		{"id":"88287c72d73e458a","fromNode":"eaad4cf07f8a22f6","fromSide":"bottom","toNode":"58e4bf7e317240af","toSide":"top"}
+	]
+}

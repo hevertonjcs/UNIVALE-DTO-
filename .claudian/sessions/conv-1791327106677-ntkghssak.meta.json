@@ -1,0 +1,29 @@
+{
+  "id": "conv-1791327106677-ntkghssak",
+  "providerId": "codex",
+  "title": "Corrigir ortografia e capitalização",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791327106685,
+  "updatedAt": 1791334452689,
+  "lastResponseAt": 1791329818995,
+  "sessionId": "01a1136a-8ad6-71f3-aad4-1c14f59d11c2",
+  "selectedModel": "gpt-5.6-terra",
+  "providerState": {
+    "threadId": "01a1136a-8ad6-71f3-aad4-1c14f59d11c2",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\hever\\.codex\\sessions\\2026\\10\\06\\rollout-2026-10-06T19-51-51-01a1136a-8ad6-71f3-aad4-1c14f59d11c2.jsonl",
+    "transcriptRootPath": "C:\\Users\\hever\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "currentNote": "AULAS/DIREITO CONSTITUCIONAL - Teoria da constituição e direitos fundamentais/Rascunhos/CONSTITUCIONAL 0610.md",
+  "usage": {
+    "inputTokens": 31262,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30464,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 31262,
+    "percentage": 12,
+    "model": "gpt-5.6-terra"
+  }
+}

@@ -10,17 +10,24 @@
 		{"id":"062fd3c3edfa1351","type":"text","text":"EM BRANCO (A LEI PRECISA SER COMPLEMENTADA)","x":160,"y":300,"width":250,"height":50},
 		{"id":"5eed506c5bc832f4","type":"text","text":"HOMOGENEAS","x":480,"y":240,"width":250,"height":60},
 		{"id":"0bc72591462f38b4","type":"text","text":"HETEROGENEAS","x":480,"y":325,"width":250,"height":60},
-		{"id":"8cb4983d034cbcb3","x":800,"y":240,"width":250,"height":60,"type":"text","text":"de igual hierrarquia com outras normas"},
-		{"id":"0e634a86bb59a57f","x":800,"y":325,"width":250,"height":95,"type":"text","text":"O Complemente vem de outro ramo do direito (resolução ou portaria)"},
-		{"id":"adc1c14091520d8b","x":1120,"y":355,"width":260,"height":105,"type":"text","text":"EXEMPLO, LEI DE DOGRAS ART 33 LEI 11343/06 QUE CONSULTA  A PORTARIA 344 DA ANVISA ART 1 "},
+		{"id":"8cb4983d034cbcb3","type":"text","text":"de igual hierrarquia com outras normas","x":800,"y":240,"width":250,"height":60},
+		{"id":"0e634a86bb59a57f","type":"text","text":"O Complemente vem de outro ramo do direito (resolução ou portaria)","x":800,"y":325,"width":250,"height":95},
+		{"id":"adc1c14091520d8b","type":"text","text":"EXEMPLO, LEI DE DOGRAS ART 33 LEI 11343/06 QUE CONSULTA  A PORTARIA 344 DA ANVISA ART 1 ","x":1120,"y":355,"width":260,"height":105},
 		{"id":"377189654d26d846","type":"text","text":"NORMA PENAL","x":-340,"y":180,"width":250,"height":60},
-		{"id":"c078193493775774","x":160,"y":500,"width":250,"height":60,"type":"text","text":"IMCOMPLETAS OU IMPERFEITAS "},
-		{"id":"b147b9beb598e2d6","x":514,"y":530,"width":286,"height":147,"type":"text","text":"EX: CP ART 147 - AMEÇA: NORMA QUE PRECISA APRESENTAR TODOS OS ELEMENTOS PARA SUA CONFIGURAÇÃO DE DELITO "},
-		{"id":"56bcafd15e85143c","x":-235,"y":968,"width":95,"height":50,"type":"text","text":"MAL"},
-		{"id":"dd511b971b15edc5","x":-70,"y":880,"width":110,"height":60,"type":"text","text":"INJUSTO"},
-		{"id":"2ccbf0ce99ca0539","x":-70,"y":988,"width":110,"height":60,"type":"text","text":"GRAVE"},
-		{"id":"b1257dae04329ac8","x":160,"y":880,"width":250,"height":60,"type":"text","text":"INJUSTO É GRATUITO"},
-		{"id":"e4a7a44854fdabe6","x":160,"y":988,"width":250,"height":112,"type":"text","text":"GRAVE É QUANDO O INDIVIDUO PODE ACREDITAR QUE ISSO REALMENTE PODE ACONTECER"}
+		{"id":"c078193493775774","type":"text","text":"IMCOMPLETAS OU IMPERFEITAS ","x":160,"y":500,"width":250,"height":60},
+		{"id":"b147b9beb598e2d6","type":"text","text":"EX: CP ART 147 - AMEÇA: NORMA QUE PRECISA APRESENTAR TODOS OS ELEMENTOS PARA SUA CONFIGURAÇÃO DE DELITO ","x":514,"y":530,"width":286,"height":147},
+		{"id":"56bcafd15e85143c","type":"text","text":"MAL","x":-235,"y":968,"width":95,"height":50},
+		{"id":"dd511b971b15edc5","type":"text","text":"INJUSTO","x":-70,"y":880,"width":110,"height":60},
+		{"id":"2ccbf0ce99ca0539","type":"text","text":"GRAVE","x":-70,"y":988,"width":110,"height":60},
+		{"id":"b1257dae04329ac8","type":"text","text":"INJUSTO É GRATUITO","x":160,"y":880,"width":250,"height":60},
+		{"id":"e4a7a44854fdabe6","type":"text","text":"GRAVE É QUANDO O INDIVIDUO PODE ACREDITAR QUE ISSO REALMENTE PODE ACONTECER","x":160,"y":988,"width":250,"height":112},
+		{"id":"ed2df5c668479e4a","x":-27,"y":1496,"width":147,"height":64,"type":"text","text":"CONDUTA "},
+		{"id":"5e58c4d48358aeff","x":620,"y":1503,"width":150,"height":50,"type":"text","text":"RESULTADO"},
+		{"id":"4953c04a86018419","x":-56,"y":1620,"width":205,"height":60,"type":"text","text":"AÇÃO OU OMISSÃO"},
+		{"id":"c6925fa359c29e89","x":580,"y":1650,"width":230,"height":60,"type":"text","text":"Juridico ou nturalistico"},
+		{"id":"cc127da8c55ae6ee","x":223,"y":1196,"width":290,"height":116,"type":"text","text":"AÇÃO(Se o resultado houver mesmo sem a ação, não é a ação)"},
+		{"id":"458353cb284f3210","x":286,"y":1280,"width":165,"height":64,"type":"text","text":"NEXO CAUSAL"},
+		{"id":"2c3086aaf6bc9010","x":257,"y":1425,"width":256,"height":103,"type":"text","text":"CAUSAS INDEPENDENTES, ELAS POREM OCORRER INDEPENDENTE DA AÇÃO"}
 	],
 	"edges":[
 		{"id":"656e656e626fad26","fromNode":"824e99f019a31cb9","fromSide":"right","toNode":"6f7fda8b305e22e1","toSide":"left"},
@@ -41,6 +48,9 @@
 		{"id":"8b069cc3425ad5a2","fromNode":"56bcafd15e85143c","fromSide":"right","toNode":"dd511b971b15edc5","toSide":"left"},
 		{"id":"0e621a6d24f83ac5","fromNode":"56bcafd15e85143c","fromSide":"right","toNode":"2ccbf0ce99ca0539","toSide":"left"},
 		{"id":"df64fe1b8180deda","fromNode":"2ccbf0ce99ca0539","fromSide":"right","toNode":"e4a7a44854fdabe6","toSide":"left"},
-		{"id":"cbdbbfe0fed4107e","fromNode":"dd511b971b15edc5","fromSide":"right","toNode":"b1257dae04329ac8","toSide":"left"}
+		{"id":"cbdbbfe0fed4107e","fromNode":"dd511b971b15edc5","fromSide":"right","toNode":"b1257dae04329ac8","toSide":"left"},
+		{"id":"8b25396cb155c7f1","fromNode":"ed2df5c668479e4a","fromSide":"top","toNode":"5e58c4d48358aeff","toSide":"top"},
+		{"id":"961535826be54259","fromNode":"ed2df5c668479e4a","fromSide":"bottom","toNode":"4953c04a86018419","toSide":"top"},
+		{"id":"4b8fd4614ebc6376","fromNode":"5e58c4d48358aeff","fromSide":"bottom","toNode":"c6925fa359c29e89","toSide":"top"}
 	]
 }
