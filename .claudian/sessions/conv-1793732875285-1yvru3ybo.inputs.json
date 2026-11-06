@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1793732875285-1yvru3ybo",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1793732875353-ajncadg",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1793732875278-07eil4n",
+      "timestamp": 1793732875278,
+      "rawDisplayText": "Vamos ajeitar edse  texto teve muito erro de digitacao, e organizar a estrutura, sem adicionar um monte de coisa ou balela ok. so organizar a estrutura.",
+      "canonicalText": "Vamos ajeitar edse  texto teve muito erro de digitacao, e organizar a estrutura, sem adicionar um monte de coisa ou balela ok. so organizar a estrutura.",
+      "context": {
+        "currentNote": {
+          "path": "ARTIGO CIENTIFICO.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "fdde3f7d3ede407ee95e02da59e95ecad0ed8f34cd607720be1f4b4f410b7425",
+      "providerUserMessageId": "01a1a2cf-9b92-7123-92c2-e9969fdd41a8",
+      "providerAssistantMessageId": "msg_02473099fec2d5f6016aea3119f34c819194788886e12558d1"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "conv-1793732875285-1yvru3ybo",
+  "providerId": "codex",
+  "title": "Organize e corrija texto com erros de digitação",
+  "titleGenerationStatus": "success",
+  "createdAt": 1793732875295,
+  "updatedAt": 1793732959460,
+  "lastResponseAt": 1793732959460,
+  "sessionId": "01a1a2cf-9539-79d1-a176-2cb1282d439f",
+  "selectedModel": "gpt-5.6-terra",
+  "providerState": {
+    "threadId": "01a1a2cf-9539-79d1-a176-2cb1282d439f",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "C:\\Users\\hever\\.codex\\sessions\\2026\\11\\03\\rollout-2026-11-03T16-07-55-01a1a2cf-9539-79d1-a176-2cb1282d439f.jsonl",
+    "transcriptRootPath": "C:\\Users\\hever\\.codex\\sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "usage": {
+    "inputTokens": 28261,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 27392,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 28261,
+    "percentage": 11,
+    "model": "gpt-5.6-terra"
+  }
+}
