@@ -70,7 +70,7 @@ Tem haver com a nossa construção de valores.
 Logo é o primeiro ponto de Dialogo e estuca.  Não adianta ter  o Ethos, o Logos ou Páthos. Sem que a pessoas queiram te ouvir. 
 
 Mais importante ainda, é Você conseguir usar a emoção dentro de uma postura ética, pois com ela você consegue manipular as pessoas, pois as pessoas são levadas a tomar uma decisão com base na emoção. 
-![[ChatGPT Image 9 de set. de 2026, 20_17_25.png|700]]
+![[ChatGPT Image 9.png|700]]
 
 OS CINCO ELEMENTOS BASICOS NA ARTE DA ORÁTORIA. 
 
