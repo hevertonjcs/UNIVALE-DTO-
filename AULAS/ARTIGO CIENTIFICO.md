@@ -1,8 +1,7 @@
-
-
 # Guia simplificado — Como fazer um artigo científico
 
-> [!abstract] Objetivo  
+> **Objetivo do guia**
+> 
 > Entender o que é um artigo científico, como estruturar a pesquisa e como escrever com fundamentação, especialmente na área do Direito.
 
 ## 1. O que é um artigo científico?
@@ -28,7 +27,8 @@ A estrutura básica é:
 5. **Pesquisa:** levantamento de autores, artigos, legislação e outras fontes.
 6. **Conclusão:** resposta obtida a partir da investigação.
 
-> [!example] Exemplo  
+> **Exemplo**
+> 
 > **Tema:** aumento das penas criminais.
 > 
 > **Problema:** aumentar a pena de um crime é suficiente para reduzir sua ocorrência?
@@ -41,19 +41,24 @@ A hipótese **não é uma verdade estabelecida**. Ela poderá ser confirmada, pa
 
 Uma maneira simples de organizar o trabalho é dividir o assunto em **três partes**.
 
-> [!example] Tema: prisão preventiva no tráfico privilegiado  
-> **Parte 1 — Prisão preventiva**  
-> Explicar o conceito de prisão preventiva, seus requisitos e fundamentos legais, utilizando a legislação e a doutrina.
-> 
-> **Parte 2 — Tráfico privilegiado**  
-> Explicar o que é o tráfico privilegiado, seus requisitos legais e como a doutrina e a jurisprudência tratam esse instituto.
-> 
-> **Parte 3 — Prisão preventiva no tráfico privilegiado**  
-> Relacionar os dois assuntos, apresentar as discussões jurídicas existentes e investigar o problema escolhido.
+**Exemplo de tema: prisão preventiva no tráfico privilegiado**
+
+### Parte 1 — Prisão preventiva
+
+Explicar o conceito de prisão preventiva, seus requisitos e fundamentos legais, utilizando a legislação e a doutrina.
+
+### Parte 2 — Tráfico privilegiado
+
+Explicar o que é o tráfico privilegiado, seus requisitos legais e como a doutrina e a jurisprudência tratam esse instituto.
+
+### Parte 3 — Prisão preventiva no tráfico privilegiado
+
+Relacionar os dois assuntos, apresentar as discussões jurídicas existentes e investigar o problema escolhido.
 
 Essa divisão permite começar pelos **conceitos gerais** e chegar à **análise específica**.
 
-> [!note]  
+> **Observação**
+> 
 > Em um artigo, essas partes normalmente são **seções de desenvolvimento**. Em um TCC, podem ser **capítulos**.
 
 ## 4. A regra mais importante: fundamentar tudo
@@ -69,12 +74,13 @@ Evite expressões como:
 
 O correto é apresentar **afirmações sustentadas por fontes confiáveis**.
 
-> [!example] Exemplo de afirmação que exige fundamentação  
+> **Exemplo** de afirmação que exige fundamentação  
 > “A prisão preventiva é utilizada de maneira excessiva no Brasil.”
 > 
 > Para sustentar essa afirmação, o pesquisador deve procurar estudos, dados oficiais, decisões judiciais ou autores que tenham examinado a questão. Só então poderá apresentá-la, indicando sua fonte e os limites do que foi demonstrado.
 
-> [!important] Regra central  
+> **Regra central**
+> 
 > **O artigo não deve dizer simplesmente aquilo que pensamos, mas aquilo que conseguimos demonstrar por meio da pesquisa.**
 
 Isso não impede uma **análise própria**: o pesquisador deve interpretar, comparar e discutir as fontes, sempre com fundamentação.
@@ -97,7 +103,8 @@ A ideia é pesquisar o que cada autor **realmente sustenta** sobre o tema.
 
 Assim, conseguimos **comparar posições** e construir uma discussão jurídica.
 
-> [!warning] Atenção às fontes  
+> **Atenção às fontes**
+> 
 > Não invente posicionamentos de autores. Consulte a obra, compreenda o argumento e indique corretamente a referência. Em citações diretas, utilize aspas e informe a página quando exigido pelas normas aplicáveis.
 
 Também **não basta juntar citações**: é necessário explicar a relação entre elas e o problema investigado.
@@ -118,7 +125,8 @@ Também **não basta juntar citações**: é necessário explicar a relação en
 - Pesquisas de instituições públicas, como **IBGE** e **CNJ**.
 - Publicações de organizações científicas reconhecidas.
 
-> [!important]  
+> **Importante**
+> 
 > Uma **notícia** pode ajudar a contextualizar um problema, mas, sozinha, normalmente **não é suficiente** para sustentar uma conclusão científica.
 
 ## 7. Como pesquisar e escrever na prática?
@@ -145,7 +153,8 @@ Em geral, um artigo apresenta:
 6. **Conclusão:** responde ao problema de pesquisa com base no que foi investigado.
 7. **Referências:** relaciona as obras e fontes utilizadas e citadas.
 
-> [!note]  
+> **Observação**
+> 
 > A quantidade de páginas e as exigências de formatação dependem da **instituição** ou da **revista científica**.
 
 ## 9. O que devemos evitar?
@@ -158,7 +167,6 @@ Em geral, um artigo apresenta:
 - Escolher fontes apenas porque concordam com a conclusão desejada.
 - Apresentar a conclusão antes de realizar a investigação.
 - Utilizar notícias ou informações sem verificar sua confiabilidade.
-
 
 
 
